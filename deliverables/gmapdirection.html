@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+  <meta charset="utf-8">
+  <title>Waypoints in Directions</title>
+  <style>
+    #right-panel {
+      font-family: 'Roboto', 'sans-serif';
+      line-height: 30px;
+      padding-left: 10px;
+    }
+
+    #right-panel select,
+    #right-panel input {
+      font-size: 15px;
+    }
+
+    #right-panel select {
+      width: 100%;
+    }
+
+    #right-panel i {
+      font-size: 12px;
+    }
+
+    html,
+    body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+
+
+    #map {
+      height: 100%;
+      float: left;
+      width: 70%;
+      height: 100%;
+    }
+
+    #content {
+      height: 70;
+      width: 200
+    }
+
+    #right-panel {
+      margin: 20px;
+      border-width: 2px;
+      width: 20%;
+      height: 400px;
+      float: left;
+      text-align: left;
+      padding-top: 0;
+    }
+
+    #directions-panel {
+      margin-top: 10px;
+      height: 300px;
+      background-color: #FFEE77;
+      padding: 10px;
+      overflow: scroll;
+    }
+    #routedata {
+      margin-top: 10px;
+      height: 400px;
+      background-color: #F0F8FF;
+      padding: 10px;
+      overflow: scroll;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="map"></div>
+  <div id="right-panel"><div id="routedata"></div>
+  <div id="directions-panel"></div>
+  </div>
+
+  </div>
+
+
+
+  <script>
+
+    function initMap() {
+      var directionsService = new google.maps.DirectionsService;
+      var directionsRenderer = new google.maps.DirectionsRenderer;
+      var map = new google.maps.Map(document.getElementById('map'), {
+        zoom: 4,
+        center: { lat: 41.85, lng: -97.65 }
+      });
+      directionsRenderer.setMap(map);
+      calculateAndDisplayRoute(directionsService, directionsRenderer, map);
+    }
+
+// This is for display the routine and right panel
+    function disproute(directionsService, directionsRenderer, event) {
+      console.log(event.position.lat());
+      console.log(event.position.lng());
+      console.log(Number(window.routepts[0][0].split(",")[0]) == event.position.lat())
+      console.log(Number(window.routepts[0][0].split(",")[1]) == event.position.lng())
+      var latt = Math.round(event.position.lat() * 10000) / 10000
+      var lngg = Math.round(event.position.lng() * 10000) / 10000
+      var routeptshere;
+      var whichi
+      for (var i = 0; i < window.routepts.length; i++) {
+        var x = Math.round(Number(window.routepts[i][0].split(",")[0]) * 10000) / 10000
+        var y = Math.round(Number(window.routepts[i][0].split(",")[1]) * 10000) / 10000
+        if (latt == x && lngg == y) {
+          routeptshere = window.routepts[i];
+          whichi = i
+          console.log("find it ");
+          break;
+        }
+      }
+      // disp on the right 
+      contentString = "<p>"+window.datas[whichi]+"</p>";
+      var routePanel = document.getElementById('routedata')
+      routePanel.innerHTML = ''
+      routePanel.innerHTML += '<br>'+ contentString
+      // find route
+      console.log(routeptshere)
+      var waypts = [];
+      for (var i = 1; i < routeptshere.length; i++) {
+        waypts.push({
+          location: routeptshere[i],
+          stopover: true
+        });
+      }
+      console.log(waypts)
+      // request
+      directionsService.route({
+        origin: routeptshere[0],
+        destination: routeptshere[routeptshere.length - 1],
+        waypoints: waypts,
+        optimizeWaypoints: false,
+        travelMode: 'WALKING'
+      }, function (response, status) {
+        if (status === 'OK') {
+          directionsRenderer.setDirections(response);
+          var route = response.routes[0];
+          var summaryPanel = document.getElementById('directions-panel');
+          summaryPanel.innerHTML = '';
+          // For each route, display summary information.
+          for (var i = 0; i < route.legs.length; i++) {
+            var routeSegment = i + 1;
+            summaryPanel.innerHTML += '<b>Route Segment: ' + routeSegment +
+              '</b><br>';
+            summaryPanel.innerHTML += route.legs[i].start_address + ' to ';
+            summaryPanel.innerHTML += route.legs[i].end_address + '<br>';
+            summaryPanel.innerHTML += route.legs[i].distance.text + '<br><br>';
+          }
+        } else {
+          window.alert('Directions request failed due to ' + status);
+        }
+      });
+    }
+// this is for getting the route from the python using WebSocket
+    function calculateAndDisplayRoute(directionsService, directionsRenderer, map) {
+
+      const socket = new WebSocket('ws://127.0.0.1:8080');
+      socket.addEventListener('message', function (event) {
+
+        console.log('Message from server ', event.data);
+        [routes,datas] = event.data.split(">>>>")
+        routes = routes.split(">>")
+        window.datas = datas.split(">>")
+        console.log(routes)
+        console.log(window.datas)
+        console.log(window.datas[0])
+        window.routepts = [];
+        var marker = [];
+        var uluru;
+        for (var j = 0; j < routes.length; j++) {
+          window.routepts.push(routes[j].split("////"));
+
+          var positionfg = new google.maps.LatLng(Number(window.routepts[j][0].split(",")[0]), Number(window.routepts[j][0].split(",")[1]));
+
+          // marker.push(new google.maps.Marker({ position: uluru, map: map }));
+          var marker = new google.maps.Marker({
+            position: positionfg,
+            map: map,
+            id: j
+          });
+
+          google.maps.event.addListener(marker, 'click', function () {
+            // store the position in infowindow, because this function is only been called by clicking.
+            var infowindow = new google.maps.InfoWindow({
+              // content: contentString,
+              position: this.getPosition()
+            });
+
+            console.log("clicked");
+            // console.log(marker.getPosition().lat());
+            // console.log(marker.getPosition().lng());
+            // console.log(j);
+            disproute(directionsService, directionsRenderer, infowindow);
+          });
+        }
+        map.setZoom(12);
+        map.setCenter(positionfg);
+      });
+    }
+  </script>
+  <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDdwZi3_raskST8K6b7weoI5IFRrylmLHk&callback=initMap">
+    </script>
+</body>
+
+</html>

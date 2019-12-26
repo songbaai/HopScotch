@@ -1,0 +1,767 @@
+,categories,coordinates.latitude,coordinates.longitude,id,location.address1,location.address2,location.address3,location.city,location.country,location.formatted_address,location.postal_code,location.state,name,price,rating,review_count,url,cluster_id,score,path
+15,[{'alias': 'karaoke'}],34.0575905,-118.2982101,xr-gKhqHQHr-1Y_o1FRwHQ,3208 W 8th S,,,Los Angeles,US,"3208 W 8th S
+Los Angeles, CA 90005",90005,CA,Simple Karaoke,$$$$,2.5,9,https://www.yelp.com/biz/simple-karaoke-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,1,3.454242509,1
+12,"[{'alias': 'breakfast_brunch'}, {'alias': 'newamerican'}, {'alias': 'cocktailbars'}]",34.057597,-118.2977468,AX-hRDB8zpIHKMix9VqB8g,3200 W 8th St,,,Los Angeles,US,"3200 W 8th St
+Los Angeles, CA 90005",90005,CA,H Cafe,$$,4.5,415,https://www.yelp.com/biz/h-cafe-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,1,7.118048097,2
+11,"[{'alias': 'bars'}, {'alias': 'karaoke'}]",34.0576051,-118.2973048,hsoN6rzsQ8A1YbMRNzEnLw,3188 W 8th St,,,Los Angeles,US,"3188 W 8th St
+Los Angeles, CA 90005",90005,CA,Saba Saba,,1.5,2,https://www.yelp.com/biz/saba-saba-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,1,1.801029996,3
+10,[{'alias': 'karaoke'}],34.05769497,-118.2969102,by1MU_kylxTepZa-XF51mg,3170 W 8th St,,,Los Angeles,US,"3170 W 8th St
+Los Angeles, CA 90005",90005,CA,Cafe Beverly,$$$,5,1,https://www.yelp.com/biz/cafe-beverly-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,1,5,4
+362,[{'alias': 'danceclubs'}],34.06519,-118.23712,39R9hNl3eNHoum1__at-WA,943 N Broadway Ave,,The Grand Star Jazz Club,Los Angeles,US,"943 N Broadway Ave
+The Grand Star Jazz Club
+Los Angeles, CA 90012",90012,CA,The Fly Ball,,5,3,https://www.yelp.com/biz/the-fly-ball-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,4,5.477121255,1
+363,"[{'alias': 'coffee'}, {'alias': 'cocktailbars'}]",34.0643,-118.23661,Dd9v6BA9GdJOAg-FaT-hMA,900 N Broadway,Ste 1050,,Los Angeles,US,"900 N Broadway
+Ste 1050
+Los Angeles, CA 90012",90012,CA,Songbird Cafe,,4.5,60,https://www.yelp.com/biz/songbird-cafe-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,4,6.27815125,2
+354,"[{'alias': 'thai'}, {'alias': 'bars'}, {'alias': 'asianfusion'}]",34.0622884,-118.2374026,64KgwQP77N8Px1ABINlEkA,211 Alpine St,Ste 8,,Los Angeles,US,"211 Alpine St
+Ste 8
+Los Angeles, CA 90012",90012,CA,Salathai Restaurant,$$,3.5,219,https://www.yelp.com/biz/salathai-restaurant-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,4,5.840444115,3
+359,[{'alias': 'danceclubs'}],34.05955124,-118.2377243,Xx1-tUWHwAmlX819Wz0mBg,686 N Spring St,,,Los Angeles,US,"686 N Spring St
+Los Angeles, CA 90012",90012,CA,Club Eternal,,2.5,3,https://www.yelp.com/biz/club-eternal-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,4,2.977121255,4
+358,"[{'alias': 'lounges'}, {'alias': 'venues'}]",34.0595704,-118.237632,neaOe1W5NS4KfKisU5qB6w,686 N Spring St,,,Los Angeles,US,"686 N Spring St
+Los Angeles, CA 90012",90012,CA,Treehouse Rooftop,$$,2,138,https://www.yelp.com/biz/treehouse-rooftop-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,4,4.139879086,5
+364,"[{'alias': 'mexican'}, {'alias': 'venues'}, {'alias': 'bars'}]",34.0571939,-118.2384039,EcWhh6JiQo7xkH70NPLGtw,17 Olvera St,,,Los Angeles,US,"17 Olvera St
+Los Angeles, CA 90012",90012,CA,La Golondrina Mexican Cafe,$$,3.5,947,https://www.yelp.com/biz/la-golondrina-mexican-cafe-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,5,6.476349979,1
+365,"[{'alias': 'mexican'}, {'alias': 'cocktailbars'}, {'alias': 'venues'}]",34.05748236,-118.2377401,4Ttfvrc3S3xW1sxHF-oFPg,11 E Olvera St,,,Los Angeles,US,"11 E Olvera St
+Los Angeles, CA 90012",90012,CA,El Paseo Inn,$$,4,1159,https://www.yelp.com/biz/el-paseo-inn-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,5,7.064083436,2
+366,[{'alias': 'bars'}],34.0561351,-118.2374828,I-oKv3WLfQWOykEPrGnk3A,800 N Alameda St,,,Los Angeles,US,"800 N Alameda St
+Los Angeles, CA 90012",90012,CA,TRAXX BAR,,5,3,https://www.yelp.com/biz/traxx-bar-los-angeles-5?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,5,5.477121255,3
+380,"[{'alias': 'tacos'}, {'alias': 'cocktailbars'}, {'alias': 'venues'}]",34.03437201,-118.2321303,SNlf3YpKkDG-e4R9jkwLhA,2000 E 7th St,,,Los Angeles,US,"2000 E 7th St
+Los Angeles, CA 90021",90021,CA,Guerrilla Tacos,$$,4,694,https://www.yelp.com/biz/guerrilla-tacos-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,6,6.84135947,1
+372,"[{'alias': 'yoga'}, {'alias': 'venues'}, {'alias': 'musicvenues'}]",34.030971,-118.229614,dnqKd2S0asBAvXeVyWHzIA,1018 S Santa Fe Ave,,,Los Angeles,US,"1018 S Santa Fe Ave
+Los Angeles, CA 90021",90021,CA,play,$,3.5,2,https://www.yelp.com/biz/play-los-angeles-3?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,6,3.801029996,2
+382,[{'alias': 'karaoke'}],34.031921,-118.232574,EoCURvJwfxUXerCgfwt3rQ,915 S Mateo St,,,Los Angeles,US,"915 S Mateo St
+Los Angeles, CA 90021",90021,CA,Silver Factory Studios,$$$,1.5,14,https://www.yelp.com/biz/silver-factory-studios-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,6,2.646128036,3
+377,"[{'alias': 'cocktailbars'}, {'alias': 'speakeasies'}]",34.03438763,-118.2313826,YgQJsJQ0bBtpTR1sGkLJaQ,2028 E 7th St,,,Los Angeles,US,"2028 E 7th St
+Los Angeles, CA 90021",90021,CA,John Thomas & Son,,5,1,https://www.yelp.com/biz/john-thomas-and-son-los-angeles-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,6,5,4
+384,[{'alias': 'bars'}],34.03439,-118.232589,gfCW8zTVPVdP1L9m_LqauQ,1936 E 7th St,,,Los Angeles,US,"1936 E 7th St
+Los Angeles, CA 90021",90021,CA,Everson Royce Bar,$$,4.5,756,https://www.yelp.com/biz/everson-royce-bar-los-angeles-3?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,6,7.378521796,5
+369,"[{'alias': 'gastropubs'}, {'alias': 'pubs'}, {'alias': 'sportsbars'}]",34.03602,-118.23305,ZAfPTUXULIuma2N6Sb-dMQ,1855 Industrial St,,,Los Angeles,US,"1855 Industrial St
+Los Angeles, CA 90021",90021,CA,Little Bear,$$,3.5,765,https://www.yelp.com/biz/little-bear-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,6,6.383661435,6
+391,"[{'alias': 'mexican'}, {'alias': 'sportsbars'}, {'alias': 'breakfast_brunch'}]",34.0476644,-118.4633843,y5wmbVa-YMLxaKYh5meRxg,11829 Wilshire Blvd,,,Los Angeles,US,"11829 Wilshire Blvd
+Los Angeles, CA 90025",90025,CA,Cabo Cantina,$$,3,613,https://www.yelp.com/biz/cabo-cantina-los-angeles-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,7,5.787460475,1
+386,"[{'alias': 'poolhalls'}, {'alias': 'sportsbars'}, {'alias': 'newamerican'}]",34.0476319,-118.4634193,cpH1Lut_cep5zZyNImlnbw,11835 Wilshire Blvd,,,Los Angeles,US,"11835 Wilshire Blvd
+Los Angeles, CA 90024",90024,CA,Q's Billiard Club,$$,3.5,536,https://www.yelp.com/biz/qs-billiard-club-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,7,6.22916479,2
+389,"[{'alias': 'mediterranean'}, {'alias': 'hookah_bars'}, {'alias': 'tapas'}]",34.04619,-118.46434,uDoYYdrvnUal7-RrZ9le7A,11906 Wilshire Blvd,B10,,Los Angeles,US,"11906 Wilshire Blvd
+B10
+Los Angeles, CA 90025",90025,CA,Layali LA,$$,5,56,https://www.yelp.com/biz/layali-la-los-angeles-4?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,7,6.748188027,3
+388,"[{'alias': 'wine_bars'}, {'alias': 'french'}]",34.04601669,-118.4645996,_M-pCI3xd501eBhO1wu-5Q,11916 Wilshire Blvd,,,Los Angeles,US,"11916 Wilshire Blvd
+Los Angeles, CA 90025",90025,CA,Belle Vie Food & Wine,$$,4.5,212,https://www.yelp.com/biz/belle-vie-food-and-wine-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,7,6.826335861,4
+398,"[{'alias': 'bars'}, {'alias': 'tradamerican'}]",34.059655,-118.4437586,YSRR-Xhed3gRLVtaNuwM3A,10899 Wilshire Blvd,,Hammer Museum,Los Angeles,US,"10899 Wilshire Blvd
+Hammer Museum
+Los Angeles, CA 90024",90024,CA,Audrey At The Hammer,,3.5,69,https://www.yelp.com/biz/audrey-at-the-hammer-los-angeles-3?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,8,5.338849091,1
+400,[{'alias': 'comedyclubs'}],34.06262487,-118.4482384,rxIn8MyGfhYQNoN6bkIFDg,954 Gayley Ave,,,Los Angeles,US,"954 Gayley Ave
+Los Angeles, CA 90024",90024,CA,The Improv Space,$,4.5,44,https://www.yelp.com/biz/the-improv-space-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,8,6.143452676,2
+393,"[{'alias': 'coffee'}, {'alias': 'mideastern'}, {'alias': 'hookah_bars'}]",34.06314409,-118.447217,a8zs0zfAHa231nGGUutvrQ,923 Broxton Ave,,,Los Angeles,US,"923 Broxton Ave
+Los Angeles, CA 90024",90024,CA,Habibi Cafe,$$,2.5,572,https://www.yelp.com/biz/habibi-cafe-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,8,5.257396029,3
+401,"[{'alias': 'mediterranean'}, {'alias': 'wine_bars'}, {'alias': 'hookah_bars'}]",34.06293,-118.44684,zFQ_2p-vxjdI8SPuNXTgaQ,940 Broxton Ave,,,Los Angeles,US,"940 Broxton Ave
+Los Angeles, CA 90024",90024,CA,Shahi,$$,4.5,70,https://www.yelp.com/biz/shahi-los-angeles-3?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,8,6.34509804,4
+394,[{'alias': 'bars'}],34.0631,-118.44362,35LG4UfojynOWmoCTV2z4A,10861 Weyburn Ave,,,Los Angeles,US,"10861 Weyburn Ave
+Los Angeles, CA 90024",90024,CA,Cork And Tap Beer And Wine Bar,$,4.5,28,https://www.yelp.com/biz/cork-and-tap-beer-and-wine-bar-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,8,5.947158031,5
+423,"[{'alias': 'galleries'}, {'alias': 'musicvenues'}]",34.0766983,-118.2564468,obzZHf-5mosn8-VEGGNbkg,1549 W Sunset Blvd,,,Los Angeles,US,"1549 W Sunset Blvd
+Los Angeles, CA 90026",90026,CA,Sancho,,4.5,2,https://www.yelp.com/biz/sancho-los-angeles-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,9,4.801029996,1
+425,"[{'alias': 'tradamerican'}, {'alias': 'sportsbars'}]",34.07727,-118.2567,t3tEurb20KwPc4bFeuzVDQ,1320 Echo Park Ave,,,Los Angeles,US,"1320 Echo Park Ave
+Los Angeles, CA 90026",90026,CA,The Holloway,$$,3.5,161,https://www.yelp.com/biz/the-holloway-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,9,5.706825876,2
+405,"[{'alias': 'beer_and_wine'}, {'alias': 'wine_bars'}]",34.07556932,-118.2553611,M--hANCBq8EqR4in8CnPew,1498 W Sunset Blvd,Ste 3,,Los Angeles,US,"1498 W Sunset Blvd
+Ste 3
+Los Angeles, CA 90026",90026,CA,Sunset Beer Company,$$,4.5,357,https://www.yelp.com/biz/sunset-beer-company-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,9,7.052668216,3
+414,"[{'alias': 'cocktailbars'}, {'alias': 'lounges'}, {'alias': 'wine_bars'}]",34.075508,-118.255245,QxjU5TnmLpF6Y9hp3SpUeg,1498 Sunset Blvd,,,Los Angeles,US,"1498 Sunset Blvd
+Los Angeles, CA 90026",90026,CA,Bar Calo,$$,4,56,https://www.yelp.com/biz/bar-calo-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,9,5.748188027,4
+406,"[{'alias': 'musicvenues'}, {'alias': 'bars'}, {'alias': 'danceclubs'}]",34.077587,-118.2605384,ruiW9h7GIcN4y1OAhOen5Q,1154 Glendale Blvd,,,Los Angeles,US,"1154 Glendale Blvd
+Los Angeles, CA 90026",90026,CA,Echoplex,$$,3.5,500,https://www.yelp.com/biz/echoplex-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,9,6.198970004,5
+422,"[{'alias': 'musicvenues'}, {'alias': 'lounges'}, {'alias': 'divebars'}]",34.07757568,-118.2600784,mzO5Ib2H4ffBmr5jpNDeQg,1822 W Sunset Blvd,,,Los Angeles,US,"1822 W Sunset Blvd
+Los Angeles, CA 90026",90026,CA,The Echo,$$,3.5,431,https://www.yelp.com/biz/the-echo-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,9,6.13447727,6
+417,[{'alias': 'lounges'}],34.07824,-118.26108,KDHlS9X2acBGBstiRWW0Vw,1911 W Sunset Blvd,,,Los Angeles,US,"1911 W Sunset Blvd
+Los Angeles, CA 90026",90026,CA,Taix 321 Lounge,$$,4,97,https://www.yelp.com/biz/taix-321-lounge-los-angeles-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,9,5.986771734,7
+420,"[{'alias': 'bars'}, {'alias': 'newamerican'}]",34.07639,-118.25579,nUT0BaARIUa1I_qV39mj9A,1525 W Sunset Blvd,,,Los Angeles,US,"1525 W Sunset Blvd
+Los Angeles, CA 90026",90026,CA,Ostrich Farm,$$,4,454,https://www.yelp.com/biz/ostrich-farm-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,9,6.657055853,8
+435,[{'alias': 'bars'}],34.0837999,-118.2737,96SdIYVwMGRYSKOucSh7tQ,2939 W Sunset Blvd,,,Los Angeles,US,"2939 W Sunset Blvd
+Los Angeles, CA 90026",90026,CA,Thirsty Crow,$$,4,708,https://www.yelp.com/biz/thirsty-crow-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,10,6.850033258,1
+426,"[{'alias': 'danceclubs'}, {'alias': 'musicvenues'}]",34.08391811,-118.2743143,4isnD4qvBhglJrdvDWqpAg,3040 W Sunset Blvd,,,Los Angeles,US,"3040 W Sunset Blvd
+Los Angeles, CA 90026",90026,CA,Los Globos,$$,2.5,365,https://www.yelp.com/biz/los-globos-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,10,5.062292864,2
+428,"[{'alias': 'bars'}, {'alias': 'tacos'}, {'alias': 'beer_and_wine'}]",34.0850744,-118.2745083,_rNLDmwV1u_D2tiZLUFmYQ,3129 W Sunset Blvd,,,Los Angeles,US,"3129 W Sunset Blvd
+Los Angeles, CA 90026",90026,CA,Diablo,$$,3.5,785,https://www.yelp.com/biz/diablo-los-angeles-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,10,6.394869657,3
+429,"[{'alias': 'cocktailbars'}, {'alias': 'newamerican'}]",34.0854955,-118.2750903,xPoZ1x-sGynBexrmRXyKlA,3200 W Sunset Blvd,,,Los Angeles,US,"3200 W Sunset Blvd
+Los Angeles, CA 90026",90026,CA,All Day Baby,,4.5,15,https://www.yelp.com/biz/all-day-baby-los-angeles-4?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,10,5.676091259,4
+430,"[{'alias': 'coffee'}, {'alias': 'hookah_bars'}]",34.086378,-118.275051,umrIxr_NL2KHOv0SE_KniQ,3229 W Sunset Blvd,,,Los Angeles,US,"3229 W Sunset Blvd
+Los Angeles, CA 90026",90026,CA,Ali Mama Cafe,$,4.5,134,https://www.yelp.com/biz/ali-mama-cafe-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,10,6.627104798,5
+443,"[{'alias': 'newamerican'}, {'alias': 'cocktailbars'}, {'alias': 'venues'}]",34.092097,-118.279745,QADDG3waUFFqhjnSn_qfsA,3909 Sunset Blvd,,,Los Angeles,US,"3909 Sunset Blvd
+Los Angeles, CA 90029",90029,CA,The Black Cat,$$,4,463,https://www.yelp.com/biz/the-black-cat-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,11,6.665580991,1
+438,[{'alias': 'wine_bars'}],34.09292649,-118.2805864,daoMX4351jdWyBT4Z2pc7Q,4019 Sunset Blvd,,,Los Angeles,US,"4019 Sunset Blvd
+Los Angeles, CA 90029",90029,CA,Romeo Wine Bar,,5,6,https://www.yelp.com/biz/romeo-wine-bar-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,11,5.77815125,2
+452,"[{'alias': 'french'}, {'alias': 'cocktailbars'}, {'alias': 'breakfast_brunch'}]",34.09214891,-118.2803923,fZt2vAYJEEYw94P6lddtgw,3932 W Sunset Blvd,,,Los Angeles,US,"3932 W Sunset Blvd
+Los Angeles, CA 90029",90029,CA,Café Stella,$$$,3.5,906,https://www.yelp.com/biz/caf%C3%A9-stella-los-angeles-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,11,6.457128198,3
+437,"[{'alias': 'galleries'}, {'alias': 'musicvenues'}, {'alias': 'fashion'}]",34.09232,-118.27979,FR5xFDixWnKN1NhIZAsIOA,3915 Sunset Blvd,,,Los Angeles,US,"3915 Sunset Blvd
+Los Angeles, CA 90029",90029,CA,Mamacita's Market,$,5,1,https://www.yelp.com/biz/mamacitas-market-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,11,5,4
+450,"[{'alias': 'italian'}, {'alias': 'wine_bars'}, {'alias': 'breakfast_brunch'}]",34.0907745,-118.2779437,mdPdWJvKCpOJhMqrFiQqWw,3705 W Sunset Blvd,,,Los Angeles,US,"3705 W Sunset Blvd
+Los Angeles, CA 90026",90026,CA,Kettle Black,$$,3.5,385,https://www.yelp.com/biz/kettle-black-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,11,6.08546073,5
+440,"[{'alias': 'theater'}, {'alias': 'comedyclubs'}]",34.093848,-118.282377,VoXyk8r4TivsLAD_i5eKqw,4212 Sunset Blvd,,,Los Angeles,US,"4212 Sunset Blvd
+Los Angeles, CA 90029",90029,CA,WHO'S the ROSS - Late Night Talk Show,,5,1,https://www.yelp.com/biz/whos-the-ross-late-night-talk-show-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,11,5,6
+446,[{'alias': 'gaybars'}],34.09555,-118.28436,HM1iHLXErdkqEjfnu5ZcoA,4356 West Sunset Blvd,,,Los Angeles,US,"4356 West Sunset Blvd
+Los Angeles, CA 90029",90029,CA,Bears in Space,,2,1,https://www.yelp.com/biz/bears-in-space-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,11,2,7
+453,"[{'alias': 'bars'}, {'alias': 'sandwiches'}, {'alias': 'mediterranean'}]",34.102568,-118.287531,RgLppz8IyYLM6eQZklOv9w,1725 Hillhurst Ave,,,Los Angeles,US,"1725 Hillhurst Ave
+Los Angeles, CA 90027",90027,CA,Spitz - Los Feliz,$$,4,754,https://www.yelp.com/biz/spitz-los-feliz-los-angeles-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,12,6.877371346,1
+455,"[{'alias': 'cocktailbars'}, {'alias': 'newamerican'}]",34.1028276,-118.2872571,iYLyVP1uRs56wZ3FK_lCdw,1750 Hillhurst Ave,,,Los Angeles,US,"1750 Hillhurst Ave
+Los Angeles, CA 90027",90027,CA,The Guest House,$$,4,331,https://www.yelp.com/biz/the-guest-house-los-angeles-3?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,12,6.519827994,2
+457,"[{'alias': 'chinese'}, {'alias': 'bars'}]",34.1042011,-118.2879041,APB7FhTPxh4nZHHxkaABfA,1813 Hillhurst Ave,,,Los Angeles,US,"1813 Hillhurst Ave
+Los Angeles, CA 90027",90027,CA,Chi Dynasty,$$,3.5,499,https://www.yelp.com/biz/chi-dynasty-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,12,6.198100546,3
+454,"[{'alias': 'sportsbars'}, {'alias': 'chicken_wings'}]",34.10437172,-118.2878379,JuxBxV7A5NKYABDWHNrmQA,1831 Hillhurst Ave,,,Los Angeles,US,"1831 Hillhurst Ave
+Los Angeles, CA 90027",90027,CA,Ye Rustic Inn,$$,3.5,620,https://www.yelp.com/biz/ye-rustic-inn-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,12,6.292391689,4
+471,[{'alias': 'comedyclubs'}],34.100522,-118.292734,-CytTH3Kq-C16iV2U9lKXw,1607 N Vermont Ave,,,Los Angeles,US,"1607 N Vermont Ave
+Los Angeles, CA 90027",90027,CA,The Clubhouse,$,4.5,20,https://www.yelp.com/biz/the-clubhouse-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,13,5.801029996,1
+461,"[{'alias': 'wine_bars'}, {'alias': 'beerbar'}]",34.10025602,-118.2903099,4q6YuzsOTB4e2bbXBGXIrA,4628 Hollywood Blvd,,,Los Angeles,US,"4628 Hollywood Blvd
+Los Angeles, CA 90027",90027,CA,Covell,$$,4.5,434,https://www.yelp.com/biz/covell-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,13,7.13748973,2
+475,[{'alias': 'comedyclubs'}],34.10078,-118.29077,5d8dFpBCgCAJrwamDGTcYg,4661 Hollywood Blvd,,,Los Angeles,US,"4661 Hollywood Blvd
+Los Angeles, CA 90027",90027,CA,On Deck! Comedy Show,,4.5,2,https://www.yelp.com/biz/on-deck-comedy-show-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,13,4.801029996,3
+460,"[{'alias': 'hookah_bars'}, {'alias': 'cafes'}, {'alias': 'lounges'}]",34.099889,-118.292574,XAhEmo_HZNawsaYJpgg_Xg,1551 N Vermont Ave,Unit 2,,Los Angeles,US,"1551 N Vermont Ave
+Unit 2
+Los Angeles, CA 90027",90027,CA,Karkar Hookah Lounge & Cafe,$$,5,9,https://www.yelp.com/biz/karkar-hookah-lounge-and-cafe-los-angeles-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,13,5.954242509,4
+474,"[{'alias': 'lounges'}, {'alias': 'newamerican'}, {'alias': 'hookah_bars'}]",34.1022651,-118.2917498,d2ECD_VYVuRFg9b6q1XD1Q,1714 N Vermont Ave,,,Los Angeles,US,"1714 N Vermont Ave
+Los Angeles, CA 90027",90027,CA,Rockwell Table & Stage,$$,3.5,1235,https://www.yelp.com/biz/rockwell-table-and-stage-los-angeles-3?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,13,6.591666958,5
+473,"[{'alias': 'theater'}, {'alias': 'specialtyschools'}, {'alias': 'comedyclubs'}]",34.10255,-118.29219,97tJ9qpugJ3SpC7o1lElgQ,1727 N Vermont Ave,Ste 211,,Los Angeles,US,"1727 N Vermont Ave
+Ste 211
+Los Angeles, CA 90027",90027,CA,Impro Theatre,,5,31,https://www.yelp.com/biz/impro-theatre-los-angeles-3?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,13,6.491361694,6
+646,"[{'alias': 'latin'}, {'alias': 'seafood'}, {'alias': 'bars'}]",34.10507,-118.2728548,sYXSgqcBUHtcACUkh3JuQA,2524 Hyperion Ave,,,Los Angeles,US,"2524 Hyperion Ave
+Los Angeles, CA 90027",90027,CA,Ceviche Project,,4.5,61,https://www.yelp.com/biz/ceviche-project-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,15,6.285329835,1
+643,"[{'alias': 'mexican'}, {'alias': 'breakfast_brunch'}, {'alias': 'cocktailbars'}]",34.10596,-118.27281,vAGszIli2pkHf_0HolmLmw,2609 Hyperion Ave,,,Los Angeles,US,"2609 Hyperion Ave
+Los Angeles, CA 90027",90027,CA,Mi Corazon,$$,4,241,https://www.yelp.com/biz/mi-corazon-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,15,6.382017043,2
+642,[{'alias': 'cocktailbars'}],34.1060199,-118.2728416,lIciD_8H5AsKn-8TYZVNmw,2611 Hyperion Ave,,,Silver Lake,US,"2611 Hyperion Ave
+Silver Lake, CA 90027",90027,CA,The Friend,$$,4,102,https://www.yelp.com/biz/the-friend-silver-lake?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,15,6.008600172,3
+645,[{'alias': 'comedyclubs'}],34.10618,-118.27298,EzrtAtJXGGEVA124U108PQ,2609 N Hyperion Ave,,,Los Angeles,US,"2609 N Hyperion Ave
+Los Angeles, CA 90027",90027,CA,FROLIC - Live Comedy,,4,2,https://www.yelp.com/biz/frolic-live-comedy-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,15,4.301029996,4
+659,"[{'alias': 'winetastingroom'}, {'alias': 'winetasteclasses'}, {'alias': 'wine_bars'}]",34.0715753,-118.3631536,KGP8ock5YIqlgm_e5IfD1A,7948 W 3rd St,,,Los Angeles,US,"7948 W 3rd St
+Los Angeles, CA 90048",90048,CA,The Blending Lab Winery,$$,4.5,65,https://www.yelp.com/biz/the-blending-lab-winery-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,16,6.312913357,1
+652,[{'alias': 'bars'}],34.0723,-118.360238,Wr8_v3gkTSsfgxjDgQYb9w,6333 W 3rd St,,,Los Angeles,US,"6333 W 3rd St
+Los Angeles, CA 90036",90036,CA,Bar 236,,4,4,https://www.yelp.com/biz/bar-236-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,16,4.602059991,2
+648,"[{'alias': 'sportsbars'}, {'alias': 'wine_bars'}]",34.0722,-118.36037,pynpHJVEJGvBAZ3EfYwrUA,6333 3rd St,,,Los Angeles,US,"6333 3rd St
+Los Angeles, CA 90036",90036,CA,326,$,4,71,https://www.yelp.com/biz/326-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,16,5.851258349,3
+650,"[{'alias': 'sportsbars'}, {'alias': 'beerbar'}, {'alias': 'musicvenues'}]",34.072114,-118.360948,llHsOrnBxMgXjbIx05gBNA,6333 W 3rd St,,,Los Angeles,US,"6333 W 3rd St
+Los Angeles, CA 90036",90036,CA,E.B.'s Beer and Wine,$$,4,54,https://www.yelp.com/biz/e-b-s-beer-and-wine-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,16,5.73239376,4
+653,"[{'alias': 'newamerican'}, {'alias': 'breakfast_brunch'}, {'alias': 'cocktailbars'}]",34.07363113,-118.3615776,T1Bi3NRAmLGbmNg82NaKmQ,115 S Fairfax Ave,,,Los Angeles,US,"115 S Fairfax Ave
+Los Angeles, CA 90036",90036,CA,Tart Restaurant,$$,3.5,1287,https://www.yelp.com/biz/tart-restaurant-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,16,6.609578547,5
+658,"[{'alias': 'bars'}, {'alias': 'tradamerican'}, {'alias': 'breakfast_brunch'}]",34.07216255,-118.3594947,8q0v6iguW46m9pGm8-hlVQ,6333 W 3rd St,"Ste O20, P20",,Los Angeles,US,"6333 W 3rd St
+Ste O20, P20
+Los Angeles, CA 90036",90036,CA,Mixology 101,$$,3,626,https://www.yelp.com/biz/mixology-101-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,16,5.796574333,6
+669,"[{'alias': 'musicvenues'}, {'alias': 'venues'}]",34.0627,-118.34889,Gc5tn6bsEn9A3LQYfxtk_Q,5515 Wilshire Blvd,,,Los Angeles,US,"5515 Wilshire Blvd
+Los Angeles, CA 90036",90036,CA,El Rey Theatre,$$,4,542,https://www.yelp.com/biz/el-rey-theatre-los-angeles-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,17,6.733999287,1
+660,[{'alias': 'danceclubs'}],34.059699,-118.345276,248YGea_H_vgAfF31mXDzg,831 S La Brea Ave,,,Los Angeles,US,"831 S La Brea Ave
+Los Angeles, CA 90036",90036,CA,La Brea Night Club,$$$,2.5,7,https://www.yelp.com/biz/la-brea-night-club-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,17,3.34509804,2
+668,"[{'alias': 'mexican'}, {'alias': 'lounges'}, {'alias': 'venues'}]",34.0596284,-118.3451919,zpCjv61s-5b-WJSd8opFvA,831 S La Brea Ave,,,Los Angeles,US,"831 S La Brea Ave
+Los Angeles, CA 90036",90036,CA,Candela,$$,4,650,https://www.yelp.com/biz/candela-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,17,6.812913357,3
+667,"[{'alias': 'breweries'}, {'alias': 'newamerican'}, {'alias': 'cocktailbars'}]",34.06469,-118.34368,l96wBEMriHr7RJJM_voP7A,600 S La Brea Ave,,,Los Angeles,US,"600 S La Brea Ave
+Los Angeles, CA 90036",90036,CA,6th & La Brea Brewery & Restaurant,$$,4,313,https://www.yelp.com/biz/6th-and-la-brea-brewery-and-restaurant-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,17,6.495544338,4
+662,"[{'alias': 'french'}, {'alias': 'breakfast_brunch'}, {'alias': 'cocktailbars'}]",34.06415,-118.34367,z0zaCVA-p_5xTsyUZrmR0g,624 S La Brea Ave,,,Los Angeles,US,"624 S La Brea Ave
+Los Angeles, CA 90036",90036,CA,République,$$,4,5276,https://www.yelp.com/biz/r%C3%A9publique-los-angeles-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,17,7.722304787,5
+674,"[{'alias': 'indpak'}, {'alias': 'bars'}, {'alias': 'newamerican'}]",34.07878,-118.36113,9OqeSaKmGjo2xhvcSI-Xog,418 N Fairfax Ave,,,Los Angeles,US,"418 N Fairfax Ave
+Los Angeles, CA 90036",90036,CA,Badmaash - Fairfax,$$,4,235,https://www.yelp.com/biz/badmaash-fairfax-los-angeles-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,18,6.371067862,1
+671,"[{'alias': 'divebars'}, {'alias': 'djs'}]",34.0795101,-118.3613451,IHvHvAui1JcH-Em60yqlAQ,442 N Fairfax Ave,,,Los Angeles,US,"442 N Fairfax Ave
+Los Angeles, CA 90036",90036,CA,The Dime,$$,3.5,339,https://www.yelp.com/biz/the-dime-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,18,6.030199698,2
+675,"[{'alias': 'russian'}, {'alias': 'bars'}, {'alias': 'venues'}]",34.0810145,-118.3616401,AXpdx39fhSnZ8tHQ_mZLdg,531 North Fairfax Ave,,,Los Angeles,US,"531 North Fairfax Ave
+Los Angeles, CA 90036",90036,CA,Maxim Restaurant & Banquet Hall,$$$,4.5,74,https://www.yelp.com/biz/maxim-restaurant-and-banquet-hall-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,18,6.36923172,3
+673,[{'alias': 'lounges'}],34.08185,-118.3599,pIV5JZfbQgiUUVj6Mc_-gA,544 N Fairfax Ave,,Greenway Court Theatre,Los Angeles,US,"544 N Fairfax Ave
+Greenway Court Theatre
+Los Angeles, CA 90036",90036,CA,Da Poetry Lounge,$,4.5,4,https://www.yelp.com/biz/da-poetry-lounge-los-angeles-3?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,18,5.102059991,4
+681,[{'alias': 'jazzandblues'}],34.06393,-118.359234,9jsOOhxbeT63kM2mSre35A,5905 Wilshire Blvd,,,Los Angeles,US,"5905 Wilshire Blvd
+Los Angeles, CA 90036",90036,CA,Jazz at LACMA,$,4.5,23,https://www.yelp.com/biz/jazz-at-lacma-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,19,5.861727836,1
+679,[{'alias': 'irish_pubs'}],34.0652146,-118.3615249,1y2jGa5aPkZOPCowww_FuA,577 S Fairfax Ave,,,Los Angeles,US,"577 S Fairfax Ave
+Los Angeles, CA 90036",90036,CA,Molly Malone's Irish Import Shop,,4,1,https://www.yelp.com/biz/molly-malones-irish-import-shop-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,19,4,2
+682,"[{'alias': 'irish'}, {'alias': 'pubs'}, {'alias': 'musicvenues'}]",34.06528854,-118.3616943,NV3K4jTXJzzEpOC2jJal5A,575 S Fairfax Ave,,,Los Angeles,US,"575 S Fairfax Ave
+Los Angeles, CA 90036",90036,CA,Molly Malone's,$$,3.5,252,https://www.yelp.com/biz/molly-malones-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,19,5.901400541,3
+680,"[{'alias': 'italian'}, {'alias': 'pizza'}, {'alias': 'cocktailbars'}]",34.062667,-118.361142,asip6_MfHBEriphbYixrdg,6060 Wilshire Blvd,,,Los Angeles,US,"6060 Wilshire Blvd
+Los Angeles, CA 90036",90036,CA,Drago Ristorante,$$,3.5,107,https://www.yelp.com/biz/drago-ristorante-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,19,5.529383778,4
+698,"[{'alias': 'cocktailbars'}, {'alias': 'newamerican'}, {'alias': 'breakfast_brunch'}]",34.08322,-118.34669,TJNKJoR2VLUn5esoTkOkbg,7212 Melrose Ave,,,Los Angeles,US,"7212 Melrose Ave
+Los Angeles, CA 90046",90046,CA,LN2 Restaurant,,4.5,79,https://www.yelp.com/biz/ln2-restaurant-los-angeles-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,20,6.397627091,1
+683,"[{'alias': 'bars'}, {'alias': 'breakfast_brunch'}, {'alias': 'british'}]",34.08372821,-118.3509961,bL8ypAeHQR1VOZLFgmSR7g,7383 Melrose Ave,,,Los Angeles,US,"7383 Melrose Ave
+Los Angeles, CA 90046",90046,CA,The Village Idiot,$$,4,1232,https://www.yelp.com/biz/the-village-idiot-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,20,7.090610708,2
+696,[{'alias': 'lounges'}],34.083469,-118.3510004,6pkjbG-TCWKEMReFXiBnnw,7384 Melrose Ave,,,Los Angeles,US,"7384 Melrose Ave
+Los Angeles, CA 90046",90046,CA,Glass Hookah Lounge,$$,4,349,https://www.yelp.com/biz/glass-hookah-lounge-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,20,6.542825427,3
+695,[{'alias': 'comedyclubs'}],34.08330154,-118.3501358,dcOqCyTgyfbloeOSC-KmvA,7356 Melrose Ave,,,Los Angeles,US,"7356 Melrose Ave
+Los Angeles, CA 90046",90046,CA,The Comedy Institute,,5,2,https://www.yelp.com/biz/the-comedy-institute-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,20,5.301029996,4
+686,"[{'alias': 'comedyclubs'}, {'alias': 'cafes'}]",34.083301,-118.350135,N5-fjLHu3L0ycCrV8nsA6A,7356 Melrose Ave,,,Los Angeles,US,"7356 Melrose Ave
+Los Angeles, CA 90046",90046,CA,Sal's Comedy Hole,$$,4.5,29,https://www.yelp.com/biz/sals-comedy-hole-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,20,5.962397998,5
+685,"[{'alias': 'theater'}, {'alias': 'nightlife'}]",34.0833505,-118.3501246,yuqLBmSNyBTutTtsyy2ECg,7356 Melrose Ave,,Ciao Cristina,Los Angeles,US,"7356 Melrose Ave
+Ciao Cristina
+Los Angeles, CA 90046",90046,CA,The Meatballs of Comedy,,5,2,https://www.yelp.com/biz/the-meatballs-of-comedy-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,20,5.301029996,6
+705,"[{'alias': 'italian'}, {'alias': 'wine_bars'}]",34.1390609,-118.2100965,asxu2hNOGLRWBbAvVGGuBw,1948 Colorado Blvd,,,Los Angeles,US,"1948 Colorado Blvd
+Los Angeles, CA 90041",90041,CA,Blair's,$$,4,173,https://www.yelp.com/biz/blairs-los-angeles-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,21,6.238046103,1
+702,"[{'alias': 'brewpubs'}, {'alias': 'newamerican'}, {'alias': 'cocktailbars'}]",34.13925997,-118.2128175,s30PlOxqan7QO3hbiHjArQ,2133 Colorado Blvd,,,Los Angeles,US,"2133 Colorado Blvd
+Los Angeles, CA 90041",90041,CA,Relentless Brewing & Spirits,$$,4.5,32,https://www.yelp.com/biz/relentless-brewing-and-spirits-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,21,6.005149978,2
+704,"[{'alias': 'cocktailbars'}, {'alias': 'gastropubs'}, {'alias': 'beerbar'}]",34.13895474,-118.2133553,zqNoHN9RmS-292KNb1pUvg,2136 Colorado Blvd,unit B,,Los Angeles,US,"2136 Colorado Blvd
+unit B
+Los Angeles, CA 90041",90041,CA,5 Line Tavern,$$,4,376,https://www.yelp.com/biz/5-line-tavern-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,21,6.575187845,3
+714,"[{'alias': 'tradamerican'}, {'alias': 'pubs'}]",34.10865402,-118.193924,dXy800lWaAxUbiXvQa-g9A,5570 N Figueroa St,,,Los Angeles,US,"5570 N Figueroa St
+Los Angeles, CA 90042",90042,CA,The Greyhound Bar & Grill,$$,4,553,https://www.yelp.com/biz/the-greyhound-bar-and-grill-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,22,6.742725131,1
+715,[{'alias': 'bars'}],34.10929,-118.19403,lWPrvA6Lum7oz2Cmo3J9DQ,5607 N Figueroa St,,,Los Angeles,US,"5607 N Figueroa St
+Los Angeles, CA 90042",90042,CA,Gold Line,$$,4,51,https://www.yelp.com/biz/gold-line-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,22,5.707570176,2
+706,"[{'alias': 'cocktailbars'}, {'alias': 'jazzandblues'}, {'alias': 'seafood'}]",34.1093212,-118.1930016,lb5DcGxQshrl_ogWT6qZPA,5630 N Figueroa St,,,Los Angeles,US,"5630 N Figueroa St
+Los Angeles, CA 90042",90042,CA,ETA,$$,4.5,147,https://www.yelp.com/biz/eta-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,22,6.667317335,3
+713,[{'alias': 'cocktailbars'}],34.1094619,-118.1930707,927oLZexkFx2laA68TraBQ,5635 N Figueroa St,,,Los Angeles,US,"5635 N Figueroa St
+Los Angeles, CA 90042",90042,CA,Good Housekeeping HLP,$$,4.5,61,https://www.yelp.com/biz/good-housekeeping-hlp-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,22,6.285329835,4
+711,"[{'alias': 'cocktailbars'}, {'alias': 'mediterranean'}, {'alias': 'newamerican'}]",34.1095179,-118.1932286,AahKv80rxhyhLtbx5OMn3A,5631 N Figueroa St,,,Los Angeles,US,"5631 N Figueroa St
+Los Angeles, CA 90042",90042,CA,Cafe Birdie,$$,4,382,https://www.yelp.com/biz/cafe-birdie-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,22,6.582063363,5
+723,"[{'alias': 'bars'}, {'alias': 'newamerican'}, {'alias': 'musicvenues'}]",34.12147,-118.20535,O7H_LKfRAiaYG5r2mC8v7Q,5043 York Blvd,,,Los Angeles,US,"5043 York Blvd
+Los Angeles, CA 90042",90042,CA,The Hi Hat,$$,4,63,https://www.yelp.com/biz/the-hi-hat-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,23,5.799340549,1
+722,[{'alias': 'bars'}],34.1209778,-118.2050328,aXEU3rIz_hwCS6tfqIXRcw,5052 York Blvd,,,Los Angeles,US,"5052 York Blvd
+Los Angeles, CA 90042",90042,CA,Block Party,$$,4.5,373,https://www.yelp.com/biz/block-party-los-angeles-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,23,7.071708832,2
+717,"[{'alias': 'bars'}, {'alias': 'breakfast_brunch'}, {'alias': 'gastropubs'}]",34.121063,-118.206283,3yFKvXnK_C-k4JCTCBKKlQ,5018 York Blvd,,,Los Angeles,US,"5018 York Blvd
+Los Angeles, CA 90042",90042,CA,The York,$$,3.5,1015,https://www.yelp.com/biz/the-york-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,23,6.506466042,3
+718,"[{'alias': 'cafes'}, {'alias': 'breakfast_brunch'}, {'alias': 'beerbar'}]",34.121113,-118.206535,_RkxSCzAkvK9xeEdgMfVmQ,5010 York Blvd,,,Los Angeles,US,"5010 York Blvd
+Los Angeles, CA 90042",90042,CA,The Highland Cafe,$$,3.5,560,https://www.yelp.com/biz/the-highland-cafe-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,23,6.248188027,4
+771,"[{'alias': 'festivals'}, {'alias': 'musicvenues'}, {'alias': 'comicbooks'}]",33.9462,-118.38159,CpC6_Yc8fgm4Sp3SXrjcYA,5711 W Century Blvd,,Hilton Los Angeles Airport,Los Angeles,US,"5711 W Century Blvd
+Hilton Los Angeles Airport
+Los Angeles, CA 90045",90045,CA,Pacific Media Expo,$$,2.5,5,https://www.yelp.com/biz/pacific-media-expo-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,25,3.198970004,1
+769,[{'alias': 'bars'}],33.94791,-118.385,8rhxvUQuhUIi-Be7SosAow,9750 Airport Blvd,,Inside Four Points Sheraton LAX,Los Angeles,US,"9750 Airport Blvd
+Inside Four Points Sheraton LAX
+Los Angeles, CA 90045",90045,CA,Palm Grill,,2,2,https://www.yelp.com/biz/palm-grill-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,25,2.301029996,2
+770,"[{'alias': 'tradamerican'}, {'alias': 'sportsbars'}]",33.94791,-118.385,SJXGSqtnb3FtB_ZDglYlpA,9750 Airport Blvd,,,Los Angeles,US,"9750 Airport Blvd
+Los Angeles, CA 90045",90045,CA,Brewsters Beererie,$$,3.5,92,https://www.yelp.com/biz/brewsters-beererie-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,25,5.463787827,3
+768,"[{'alias': 'breakfast_brunch'}, {'alias': 'newamerican'}, {'alias': 'cocktailbars'}]",33.948928,-118.385274,Elnuoc_1K41Hi-HDgmEAJQ,9620 Airport Blvd,,,Los Angeles,US,"9620 Airport Blvd
+Los Angeles, CA 90045",90045,CA,Studio 12,,3.5,2,https://www.yelp.com/biz/studio-12-los-angeles-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,25,3.801029996,4
+844,"[{'alias': 'sushi'}, {'alias': 'lounges'}]",34.0980385,-118.3526225,J8dFE9_jTmJbh4xFHplsLQ,7445 Sunset Blvd,Ste B,,Los Angeles,US,"7445 Sunset Blvd
+Ste B
+Los Angeles, CA 90046",90046,CA,SK Lounge,,5,1,https://www.yelp.com/biz/sk-lounge-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,27,5,1
+845,"[{'alias': 'hookah_bars'}, {'alias': 'mediterranean'}]",34.09837,-118.35072,1tdFpo_Lfr1eSgthurOlNw,7373 W Sunset Blvd,,,Los Angeles,US,"7373 W Sunset Blvd
+Los Angeles, CA 90046",90046,CA,Aroma Hookah Bar,$$,4.5,49,https://www.yelp.com/biz/aroma-hookah-bar-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,27,6.19019608,2
+836,[{'alias': 'lounges'}],34.09766,-118.35142,keRUJzBo2enXGXCwO-mYvg,7370 Sunset Blvd,,,Los Angeles,US,"7370 Sunset Blvd
+Los Angeles, CA 90046",90046,CA,Roofdeck Lounge at The Moment Hotel,,4,1,https://www.yelp.com/biz/roofdeck-lounge-at-the-moment-hotel-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,27,4,3
+840,"[{'alias': 'hotels'}, {'alias': 'bars'}]",34.09779509,-118.3515592,CfwSkrc_BeL0vbeooL7GNw,7370 Sunset Blvd,,,Los Angeles,US,"7370 Sunset Blvd
+Los Angeles, CA 90046",90046,CA,The Moment Hotel,$$,3.5,129,https://www.yelp.com/biz/the-moment-hotel-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,27,5.61058971,4
+839,"[{'alias': 'museums'}, {'alias': 'jazzandblues'}]",34.09813934,-118.3518771,8OrYAPLq7cDKtQ_SbvnpNw,7425 W Sunset Blvd,,,Los Angeles,US,"7425 W Sunset Blvd
+Los Angeles, CA 90046",90046,CA,RockWalk,$,5,6,https://www.yelp.com/biz/rockwalk-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,27,5.77815125,5
+850,"[{'alias': 'newamerican'}, {'alias': 'lounges'}]",34.0909402,-118.3636093,PJPubcB4oEtsqwnpu8SSJQ,7969 Santa Monica Blvd,,,West Hollywood,US,"7969 Santa Monica Blvd
+West Hollywood, CA 90046",90046,CA,Delilah,$$$,3,376,https://www.yelp.com/biz/delilah-west-hollywood?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,28,5.575187845,1
+860,[{'alias': 'bars'}],34.090553,-118.364578,8AMnPve0k-hLtB2mmE_GmQ,7994 Santa Monica Blvd,,,West Hollywood,US,"7994 Santa Monica Blvd
+West Hollywood, CA 90046",90046,CA,The Rafters,,5,1,https://www.yelp.com/biz/the-rafters-west-hollywood?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,28,5,2
+861,"[{'alias': 'newamerican'}, {'alias': 'cocktailbars'}, {'alias': 'wine_bars'}]",34.088527,-118.361878,D6_mb0MZdAVvfmwYOFHK-A,945 N Fairfax Ave,,,West Hollywood,US,"945 N Fairfax Ave
+West Hollywood, CA 90046",90046,CA,Ysabel,$$$,3.5,883,https://www.yelp.com/biz/ysabel-west-hollywood?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,28,6.445960704,3
+846,"[{'alias': 'cocktailbars'}, {'alias': 'newamerican'}, {'alias': 'lounges'}]",34.09100091,-118.3631456,ALF79fQM2QhMfsBhwPATng,7953 Santa Monica Blvd,,,West Hollywood,US,"7953 Santa Monica Blvd
+West Hollywood, CA 90046",90046,CA,Employees Only,$$,4,254,https://www.yelp.com/biz/employees-only-west-hollywood?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,28,6.404833717,4
+857,"[{'alias': 'bars'}, {'alias': 'mexican'}, {'alias': 'breakfast_brunch'}]",34.091249,-118.363186,PLfZ1ACQRAC1bgOTzS5rBA,1111 N Hayworth Ave,,,West Hollywood,US,"1111 N Hayworth Ave
+West Hollywood, CA 90046",90046,CA,Tacos Tu Madre,$$,5,22,https://www.yelp.com/biz/tacos-tu-madre-west-hollywood?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,28,6.342422681,5
+847,"[{'alias': 'pubs'}, {'alias': 'beergardens'}]",34.091133,-118.362586,flu0d-Vuyrz4wPf1LO0-VQ,7929 Santa Monica Blvd,,,West Hollywood,US,"7929 Santa Monica Blvd
+West Hollywood, CA 90046",90046,CA,The Surly Goat,$$,4,408,https://www.yelp.com/biz/the-surly-goat-west-hollywood?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,28,6.610660163,6
+897,"[{'alias': 'lounges'}, {'alias': 'whiskeybars'}, {'alias': 'venues'}]",34.07304,-118.37585,vD_vPxFQ8Bf4OO32bVsPxg,8480 W 3rd St,,,Los Angeles,US,"8480 W 3rd St
+Los Angeles, CA 90048",90048,CA,The Phoenix,$$,4,216,https://www.yelp.com/biz/the-phoenix-los-angeles-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,30,6.334453751,1
+901,"[{'alias': 'newamerican'}, {'alias': 'wine_bars'}, {'alias': 'cocktailbars'}]",34.0734,-118.374764,xroe2Kn7bSuUlS8RwQ2IMA,8445 W 3rd St,,,Los Angeles,US,"8445 W 3rd St
+Los Angeles, CA 90048",90048,CA,The Shelby,,4,61,https://www.yelp.com/biz/the-shelby-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,30,5.785329835,2
+899,"[{'alias': 'hookah_bars'}, {'alias': 'cafes'}]",34.072888,-118.373794,wQXRkgf8c73hkbGiEdOPDA,8412 W 3rd St,,,Los Angeles,US,"8412 W 3rd St
+Los Angeles, CA 90048",90048,CA,La Date Garden,,3,2,https://www.yelp.com/biz/la-date-garden-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,30,3.301029996,3
+903,"[{'alias': 'pizza'}, {'alias': 'hookah_bars'}, {'alias': 'burgers'}]",34.072995,-118.37375,LSCreFj572ZGZ7I0v2s9kA,8412 W 3rd St,,,Los Angeles,US,"8412 W 3rd St
+Los Angeles, CA 90048",90048,CA,Berri's Cafe,$$,3,797,https://www.yelp.com/biz/berris-cafe-los-angeles-9?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,30,5.901458321,4
+898,[{'alias': 'sportsbars'}],34.072543,-118.37129,VOFA28djXACRkmtwkYCGdQ,8334 W 3rd St,,,Los Angeles,US,"8334 W 3rd St
+Los Angeles, CA 90048",90048,CA,Goal Sports Cafe,$$,3.5,235,https://www.yelp.com/biz/goal-sports-cafe-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,30,5.871067862,5
+910,"[{'alias': 'bars'}, {'alias': 'jazzandblues'}]",34.076361,-118.377486,NlXBe027swZDHcIz2Zt70A,8555 Beverly Blvd,,,Los Angeles,US,"8555 Beverly Blvd
+Los Angeles, CA 90048",90048,CA,Riviera 31,$$$,3.5,95,https://www.yelp.com/biz/riviera-31-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,31,5.477723605,1
+906,"[{'alias': 'seafood'}, {'alias': 'burgers'}, {'alias': 'cocktailbars'}]",34.0762031,-118.3779835,yZDK0XtLi0JeE2Dho1boIw,8555 Beverly Blvd,,,Los Angeles,US,"8555 Beverly Blvd
+Los Angeles, CA 90048",90048,CA,Cattle & Claw,$$,4,157,https://www.yelp.com/biz/cattle-and-claw-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,31,6.195899652,2
+911,"[{'alias': 'newamerican'}, {'alias': 'breakfast_brunch'}, {'alias': 'cocktailbars'}]",34.0771299,-118.38068,cal0Wpupxj9c_AV7WzDXsw,8701 Beverly Blvd,,,West Hollywood,US,"8701 Beverly Blvd
+West Hollywood, CA 90048",90048,CA,GRANVILLE,$$,4.5,1289,https://www.yelp.com/biz/granville-west-hollywood-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,31,7.610252917,3
+909,"[{'alias': 'musicvenues'}, {'alias': 'lounges'}]",34.0769666,-118.3808528,ZvA1RDvC5y5vHLX_zA05kw,8713 Beverly Blvd,,,West Hollywood,US,"8713 Beverly Blvd
+West Hollywood, CA 90048",90048,CA,The Peppermint Club,$$$,2.5,97,https://www.yelp.com/biz/the-peppermint-club-west-hollywood?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,31,4.486771734,4
+922,"[{'alias': 'karaoke'}, {'alias': 'korean'}]",34.06051,-118.28455,q0O-hYvmDTdmIeOJs1z-EA,685 S Hoover St,,,Los Angeles,US,"685 S Hoover St
+Los Angeles, CA 90005",90005,CA,Audition Family Karaoke,$$,4,29,https://www.yelp.com/biz/audition-family-karaoke-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,32,5.462397998,1
+916,[{'alias': 'poolhalls'}],34.05663,-118.28254,Xv6lp7p6kWksOdu09FtAPA,2500 West 8th St,Ste 205,,Los Angeles,US,"2500 West 8th St
+Ste 205
+Los Angeles, CA 90057",90057,CA,Q Billiard,,5,4,https://www.yelp.com/biz/q-billiard-los-angeles-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,32,5.602059991,2
+914,[{'alias': 'karaoke'}],34.05663,-118.28254,oU8-Q9KiwBgddzd8QBJJlw,2500 W 8th St,Ste 104,,Los Angeles,US,"2500 W 8th St
+Ste 104
+Los Angeles, CA 90057",90057,CA,Quegori Norebang,$$,2,12,https://www.yelp.com/biz/quegori-norebang-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,32,3.079181246,3
+919,"[{'alias': 'bars'}, {'alias': 'korean'}]",34.05658214,-118.2826478,QrBq7ZJHJ5ho8SPTGahkiw,2500 W 8th St,Ste 108,,Los Angeles,US,"2500 W 8th St
+Ste 108
+Los Angeles, CA 90057",90057,CA,Prizon Bar,$$,4,60,https://www.yelp.com/biz/prizon-bar-los-angeles-6?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,32,5.77815125,4
+921,"[{'alias': 'theater'}, {'alias': 'musicvenues'}]",34.0606117,-118.2807236,aOQWiyq-X2EeDVkaGEjOgQ,2511 Wilshire Blvd,,,Los Angeles,US,"2511 Wilshire Blvd
+Los Angeles, CA 90057",90057,CA,Just Imagine: At the Hayworth Theatre,,3.5,2,https://www.yelp.com/biz/just-imagine-at-the-hayworth-theatre-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,32,3.801029996,5
+913,"[{'alias': 'videofilmproductions'}, {'alias': 'talentagencies'}, {'alias': 'musicvenues'}]",34.0589629,-118.2823237,UQXUxiSm-wyHmcgyM84A7Q,2525 W 7th St,,,Los Angeles,US,"2525 W 7th St
+Los Angeles, CA 90057",90057,CA,Indie Lab Film Studios,$,2.5,2,https://www.yelp.com/biz/indie-lab-film-studios-los-angeles-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,32,2.801029996,6
+926,[{'alias': 'lounges'}],34.03957,-118.4305393,vqexea2w5XPf4N1AJ8YL0w,10929 W Pico Blvd,,,Los Angeles,US,"10929 W Pico Blvd
+Los Angeles, CA 90064",90064,CA,The Wellesbourne,$$$,4,951,https://www.yelp.com/biz/the-wellesbourne-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,33,6.978180517,1
+927,"[{'alias': 'newamerican'}, {'alias': 'pubs'}, {'alias': 'cocktailbars'}]",34.039642,-118.428946,4LptA7lZJLKMuEgT6ZzMxQ,10850 W Pico Blvd,,,Los Angeles,US,"10850 W Pico Blvd
+Los Angeles, CA 90064",90064,CA,Westside Tavern,$$,4,1449,https://www.yelp.com/biz/westside-tavern-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,33,7.161068385,2
+924,[{'alias': 'wine_bars'}],34.03978,-118.42904,qnoHviRTzSGjO-wbv1fguw,10850 W Pico Blvd,,,Los Angeles,US,"10850 W Pico Blvd
+Los Angeles, CA 90064",90064,CA,Landmark Wine Bar,$$,3,59,https://www.yelp.com/biz/landmark-wine-bar-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,33,4.770852012,3
+930,"[{'alias': 'scandinavian'}, {'alias': 'bars'}, {'alias': 'mediterranean'}]",33.996813,-118.428552,#NAME?,12400 Washington Blvd,,,Culver City,US,"12400 Washington Blvd
+Culver City, CA 90066",90066,CA,Gravlax,$$,4,218,https://www.yelp.com/biz/gravlax-culver-city?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,34,6.338456494,1
+934,"[{'alias': 'lounges'}, {'alias': 'korean'}, {'alias': 'chicken_wings'}]",33.99689,-118.42654,xRB-PmYVsVXVY1TaYUjapw,12236 W Washington Blvd,,,Los Angeles,US,"12236 W Washington Blvd
+Los Angeles, CA 90066",90066,CA,Alibi Room,$$,4,1470,https://www.yelp.com/biz/alibi-room-los-angeles-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,34,7.167317335,2
+931,"[{'alias': 'cocktailbars'}, {'alias': 'lounges'}]",33.9975,-118.4263,ywevJMtMix7dzLwCBdalsg,12223 West Washington Blvd,,,Culver City,US,"12223 West Washington Blvd
+Culver City, CA 90066",90066,CA,Alley Lounge,$$,4,250,https://www.yelp.com/biz/alley-lounge-culver-city-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,34,6.397940009,3
+946,"[{'alias': 'newamerican'}, {'alias': 'cocktailbars'}]",34.0599599,-118.41982,oX0_dwhi17dv2xKB89E4Tg,10250 Santa Monica Blvd,,,Los Angeles,US,"10250 Santa Monica Blvd
+Los Angeles, CA 90067",90067,CA,Bar Verde,$$,4,53,https://www.yelp.com/biz/bar-verde-los-angeles-3?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,35,5.72427587,1
+937,"[{'alias': 'seafood'}, {'alias': 'bars'}]",34.0599599,-118.41982,iY0Wk8XCbIiO7snA_4odYw,10250 Santa Monica Blvd,,,Los Angeles,US,"10250 Santa Monica Blvd
+Los Angeles, CA 90067",90067,CA,Il Pesce Cucina at Eataly,$$$,3,159,https://www.yelp.com/biz/il-pesce-cucina-at-eataly-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,35,5.201397124,2
+948,[{'alias': 'wine_bars'}],34.05996,-118.41982,4c-Fysw-7uWw_ZlS-06szQ,10250 Santa Monica Blvd,,,Los Angeles,US,"10250 Santa Monica Blvd
+Los Angeles, CA 90067",90067,CA,Gelson's Century City Wine Bar,,5,4,https://www.yelp.com/biz/gelsons-century-city-wine-bar-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,35,5.602059991,3
+936,"[{'alias': 'grocery'}, {'alias': 'delis'}, {'alias': 'wine_bars'}]",34.05780115,-118.4193125,hUZDpWXUkw165KAk-uv5FA,10250 Santa Monica Blvd,,,Los Angeles,US,"10250 Santa Monica Blvd
+Los Angeles, CA 90067",90067,CA,Gelson's,$$$,3.5,220,https://www.yelp.com/biz/gelsons-los-angeles-3?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,35,5.842422681,4
+945,"[{'alias': 'italian'}, {'alias': 'wine_bars'}, {'alias': 'pizza'}]",34.05810969,-118.4196005,C2SPQ6w29lS5UyNRMiHjLA,10250 Santa Monica Blvd,Ste 206,,Los Angeles,US,"10250 Santa Monica Blvd
+Ste 206
+Los Angeles, CA 90067",90067,CA,Obicà Mozzarella Bar Pizza e Cucina,$$,3.5,541,https://www.yelp.com/biz/obic%C3%A0-mozzarella-bar-pizza-e-cucina-los-angeles-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,35,6.233197265,5
+947,[{'alias': 'lounges'}],34.05921798,-118.4187994,zEHU9iGcKlk52wR4DubK2g,10250 Santa Monica Blvd,Ste 1700,,Los Angeles,US,"10250 Santa Monica Blvd
+Ste 1700
+Los Angeles, CA 90067",90067,CA,The Edith,,4.5,3,https://www.yelp.com/biz/the-edith-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,35,4.977121255,6
+935,"[{'alias': 'theater'}, {'alias': 'musicvenues'}]",34.060319,-118.416584,qRfetOXEEBanRDpuUJb7Rg,1900 Avenue Of The Stars,Ste 1880,,Los Angeles,US,"1900 Avenue Of The Stars
+Ste 1880
+Los Angeles, CA 90067",90067,CA,iPalpiti Artists International,$$,1,1,https://www.yelp.com/biz/ipalpiti-artists-international-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,35,1,7
+962,"[{'alias': 'italian'}, {'alias': 'cocktailbars'}]",34.06743226,-118.4091012,-3G8D2pqqLCtgluupYHrSg,9785 Santa Monica Blvd,,,Beverly Hills,US,"9785 Santa Monica Blvd
+Beverly Hills, CA 90210",90210,CA,La Dolce Vita,$$$,4,277,https://www.yelp.com/biz/la-dolce-vita-beverly-hills?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,36,6.442479769,1
+950,"[{'alias': 'cocktailbars'}, {'alias': 'newamerican'}]",34.066604,-118.411608,sYyoLn1Z9X29AHZPcpTwhg,9850 Wilshire Blvd,,,Beverly Hills,US,"9850 Wilshire Blvd
+Beverly Hills, CA 90210",90210,CA,Jean-Georges Beverly Hills,$$$$,3.5,252,https://www.yelp.com/biz/jean-georges-beverly-hills-beverly-hills-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,36,5.901400541,2
+957,"[{'alias': 'bars'}, {'alias': 'newamerican'}, {'alias': 'venues'}]",34.06608681,-118.4127728,1JYtqWdJobz4sxH8ZJ4ATA,9876 Wilshire Blvd,,The Beverly Hilton,Beverly Hills,US,"9876 Wilshire Blvd
+The Beverly Hilton
+Beverly Hills, CA 90210",90210,CA,Circa 55,$$$,3.5,238,https://www.yelp.com/biz/circa-55-beverly-hills?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,36,5.876576957,3
+951,"[{'alias': 'latin'}, {'alias': 'lounges'}, {'alias': 'tapasmallplates'}]",34.06693,-118.4105,RQoD2ucHJJQpCevVNPlLxQ,9850 Wilshire Blvd,,,Beverly Hills,US,"9850 Wilshire Blvd
+Beverly Hills, CA 90210",90210,CA,The Rooftop by JG,$$$$,4,306,https://www.yelp.com/biz/the-rooftop-by-jg-beverly-hills-4?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,36,6.485721426,4
+955,[{'alias': 'bars'}],34.06556542,-118.4106761,kMCcjfrkN-U89xj0UXiMcQ,9882 S Santa Monica Blvd,,,Beverly Hills,US,"9882 S Santa Monica Blvd
+Beverly Hills, CA 90212",90212,CA,The Club Bar at The Peninsula Beverly Hills,$$$$,5,10,https://www.yelp.com/biz/the-club-bar-at-the-peninsula-beverly-hills-beverly-hills?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,36,6,5
+952,[{'alias': 'bars'}],34.0663399,-118.41299,LDBm7qP1VBNTX-4sgxl8ww,9876 Wilshire Blvd,,,Beverly Hills,US,"9876 Wilshire Blvd
+Beverly Hills, CA 90210",90210,CA,Bar 210,$$$,2,47,https://www.yelp.com/biz/bar-210-beverly-hills?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,36,3.672097858,6
+980,"[{'alias': 'newamerican'}, {'alias': 'lounges'}]",34.07123,-118.40028,pinqIcccJ99KfTY4XiQTPw,Crescent Hotel,403 N Crescent Dr,,Beverly Hills,US,"Crescent Hotel
+403 N Crescent Dr
+Beverly Hills, CA 90210",90210,CA,Crescent Lounge,,5,4,https://www.yelp.com/biz/crescent-lounge-beverly-hills-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,37,5.602059991,1
+965,"[{'alias': 'bars'}, {'alias': 'sandwiches'}, {'alias': 'burgers'}]",34.06617,-118.39872,6uCcRqFET5kCO41lg-jDgg,122 S Beverly Dr,,,Beverly Hills,US,"122 S Beverly Dr
+Beverly Hills, CA 90212",90212,CA,The Honor Bar,$$,4.5,1559,https://www.yelp.com/biz/the-honor-bar-beverly-hills-3?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,37,7.692846115,2
+971,"[{'alias': 'bars'}, {'alias': 'newamerican'}]",34.0667,-118.39617,_XWo0VEj66e29LLDrJPKyA,9360 Wilshire Blvd,,,Beverly Hills,US,"9360 Wilshire Blvd
+Beverly Hills, CA 90212",90212,CA,Above SIXTY,$$,4,68,https://www.yelp.com/biz/above-sixty-beverly-hills?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,37,5.832508913,3
+966,[{'alias': 'lounges'}],34.06677819,-118.4009979,dI7xCK6fT0PwyqDCDGEedw,9500 Wilshire Blvd,,Beverly Wilshire A Four Seasons Hotel,Beverly Hills,US,"9500 Wilshire Blvd
+Beverly Wilshire A Four Seasons Hotel
+Beverly Hills, CA 90212",90212,CA,CUT Lounge,$$$,4,93,https://www.yelp.com/biz/cut-lounge-beverly-hills-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,37,5.968482949,4
+967,"[{'alias': 'bars'}, {'alias': 'newamerican'}]",34.06668367,-118.400957,wLaC6N-gyY9d2-B6TTSmcw,9500 Wilshire Blvd,,,Beverly Hills,US,"9500 Wilshire Blvd
+Beverly Hills, CA 90212",90212,CA,THE Blvd,$$$,3.5,368,https://www.yelp.com/biz/the-blvd-beverly-hills?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,37,6.065847819,5
+979,[{'alias': 'lounges'}],34.0692194,-118.3997485,gDFYjeUFcTpk8h0xLbW6ig,301 N Canon Dr,,,Beverly Hills,US,"301 N Canon Dr
+Beverly Hills, CA 90210",90210,CA,Grand Havana Room,$$$,4.5,70,https://www.yelp.com/biz/grand-havana-room-beverly-hills?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,37,6.34509804,6
+964,"[{'alias': 'newamerican'}, {'alias': 'bars'}, {'alias': 'sandwiches'}]",34.0667,-118.39617,F1_N_Diyjk0pM_6PUpkcMw,9360 Wilshire Blvd,,,Beverly Hills,US,"9360 Wilshire Blvd
+Beverly Hills, CA 90212",90212,CA,Caulfield's Bar & Dining Room,$$$,3.5,144,https://www.yelp.com/biz/caulfields-bar-and-dining-room-beverly-hills-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,37,5.658362492,7
+985,"[{'alias': 'italian'}, {'alias': 'pizza'}, {'alias': 'cocktailbars'}]",34.023288,-118.395431,vKFeVF4k9oM4Fly67CagZQ,9531 Culver Blvd,,,Culver City,US,"9531 Culver Blvd
+Culver City, CA 90232",90232,CA,AR Cucina,$$,4,299,https://www.yelp.com/biz/ar-cucina-culver-city?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,38,6.475671188,1
+996,"[{'alias': 'italian'}, {'alias': 'wine_bars'}]",34.0235204,-118.3951265,bmuNQL8-S3_eKZ-M0yIanA,3865 Cardiff Ave,,,Culver City,US,"3865 Cardiff Ave
+Culver City, CA 90232",90232,CA,Ugo,$$,3.5,1669,https://www.yelp.com/biz/ugo-culver-city-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,38,6.722456337,2
+981,"[{'alias': 'french'}, {'alias': 'bars'}, {'alias': 'breakfast_brunch'}]",34.0219647,-118.3962699,byuWxWTmdw-vfJw29B9MoA,9727 Culver Blvd,,,Culver City,US,"9727 Culver Blvd
+Culver City, CA 90232",90232,CA,Meet in Paris,$$,4,1460,https://www.yelp.com/biz/meet-in-paris-culver-city?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,38,7.164352856,3
+995,[{'alias': 'jazzandblues'}],34.0219744,-118.3968049,xk9q3DOsJ5v0vucEvtDAFA,9820 Washington Blvd,,The Kirk Douglas Theatre,Culver City,US,"9820 Washington Blvd
+The Kirk Douglas Theatre
+Culver City, CA 90232",90232,CA,The Jazz Bakery,,3.5,3,https://www.yelp.com/biz/the-jazz-bakery-culver-city-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,38,3.977121255,4
+994,"[{'alias': 'theater'}, {'alias': 'musicvenues'}]",34.02637216,-118.3930618,R0eQOFNWt-u7rngVo4-Cqg,9070 Venice Blvd,,,Culver City,US,"9070 Venice Blvd
+Culver City, CA 90232",90232,CA,The Actors' Gang,$$,4.5,48,https://www.yelp.com/biz/the-actors-gang-culver-city?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,38,6.181241237,5
+984,"[{'alias': 'pizza'}, {'alias': 'italian'}, {'alias': 'bars'}]",34.02205347,-118.3962904,cDOUAhWZdVP8677_ApbvfQ,9725 Culver Blvd,,,Culver City,US,"9725 Culver Blvd
+Culver City, CA 90232",90232,CA,Wildcraft,$$,4,964,https://www.yelp.com/biz/wildcraft-culver-city?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,38,6.984077034,6
+1008,"[{'alias': 'danceclubs'}, {'alias': 'bars'}]",33.9414558,-118.1330643,wSPbY5UKYBUH-DLhXDqRpw,8239 2nd St,,,Downey,US,"8239 2nd St
+Downey, CA 90241",90241,CA,La Casa Del Cuervo,,2,4,https://www.yelp.com/biz/la-casa-del-cuervo-downey?adjust_creative=KbX-3VX0iTtesKGOSeyYSg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=KbX-3VX0iTtesKGOSeyYSg,39,2.602059991,1
+1010,[{'alias': 'hookah_bars'}],33.9413802,-118.1323106,FkOOGn7gvnFeHeic2ceCrA,11029 Downey Ave,,,Downey,US,"11029 Downey Ave
+Downey, CA 90241",90241,CA,Mosaik Hookah Lounge,$$,3.5,123,https://www.yelp.com/biz/mosaik-hookah-lounge-downey-2?adjust_creative=KbX-3VX0iTtesKGOSeyYSg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=KbX-3VX0iTtesKGOSeyYSg,39,5.589905111,2
+998,"[{'alias': 'hookah_bars'}, {'alias': 'musicvenues'}]",33.93978535,-118.1321722,s-jEd1uOl9ZNvfSnOG3pNQ,8323 Firestone Blvd,,,Downey,US,"8323 Firestone Blvd
+Downey, CA 90241",90241,CA,Hookah Hub,$$,4,121,https://www.yelp.com/biz/hookah-hub-downey?adjust_creative=KbX-3VX0iTtesKGOSeyYSg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=KbX-3VX0iTtesKGOSeyYSg,39,6.08278537,3
+1001,"[{'alias': 'cocktailbars'}, {'alias': 'breakfast_brunch'}, {'alias': 'mexican'}]",33.94102428,-118.132219,m9zW1h-uFRCZQn5Lav6cDA,11040 Downey Ave,,,Downey,US,"11040 Downey Ave
+Downey, CA 90241",90241,CA,BRB RestoBar,$$,4,423,https://www.yelp.com/biz/brb-restobar-downey-3?adjust_creative=KbX-3VX0iTtesKGOSeyYSg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=KbX-3VX0iTtesKGOSeyYSg,39,6.626340367,4
+1003,"[{'alias': 'burgers'}, {'alias': 'cocktailbars'}, {'alias': 'steak'}]",33.94141,-118.13253,K9j5sKe7oqBPtNCzUcpmkQ,11033 Downey Ave,,,Downey,US,"11033 Downey Ave
+Downey, CA 90241",90241,CA,Lock & Key Social Drinkery and Kitchen,$$,4,1692,https://www.yelp.com/biz/lock-and-key-social-drinkery-and-kitchen-downey-7?adjust_creative=KbX-3VX0iTtesKGOSeyYSg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=KbX-3VX0iTtesKGOSeyYSg,39,7.228400359,5
+997,"[{'alias': 'theater'}, {'alias': 'musicvenues'}]",33.93919754,-118.1296463,YDx3Ay7FqY37H6POHbFcdQ,8435 Firestone Blvd,,,Downey,US,"8435 Firestone Blvd
+Downey, CA 90241",90241,CA,Downey Theatre,$$,3.5,22,https://www.yelp.com/biz/downey-theatre-downey-2?adjust_creative=KbX-3VX0iTtesKGOSeyYSg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=KbX-3VX0iTtesKGOSeyYSg,39,4.842422681,6
+1019,"[{'alias': 'newamerican'}, {'alias': 'burgers'}, {'alias': 'beerbar'}]",33.9171292,-118.4161161,nbm4trbAhsN2YXzWnMeeqA,143 Main St,,,El Segundo,US,"143 Main St
+El Segundo, CA 90245",90245,CA,Rock & Brews - El Segundo,$$,4,1356,https://www.yelp.com/biz/rock-and-brews-el-segundo-el-segundo?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,40,7.13225969,1
+1017,"[{'alias': 'beerbar'}, {'alias': 'newamerican'}, {'alias': 'brewpubs'}]",33.9181418,-118.4158251,dOa2vmwFaveT_OLxjLrnug,204 Main St,,,El Segundo,US,"204 Main St
+El Segundo, CA 90245",90245,CA,Brewport Tap House,$$,4.5,330,https://www.yelp.com/biz/brewport-tap-house-el-segundo?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,40,7.01851394,2
+1011,"[{'alias': 'tradamerican'}, {'alias': 'sportsbars'}, {'alias': 'pubs'}]",33.91731,-118.41629,H6bijteMCcrwKeAT5IUAQA,123 Main St,,,El Segundo,US,"123 Main St
+El Segundo, CA 90245",90245,CA,Tavern On Main,$$,4,303,https://www.yelp.com/biz/tavern-on-main-el-segundo?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,40,6.481442629,3
+1013,"[{'alias': 'bars'}, {'alias': 'tradamerican'}]",33.91772,-118.41748,IEmCYFgk6qXyBQqcLWoPzA,145 Richmond St,,,El Segundo,US,"145 Richmond St
+El Segundo, CA 90245",90245,CA,Richmond Bar & Grill,$$,4,158,https://www.yelp.com/biz/richmond-bar-and-grill-el-segundo?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,40,6.198657087,4
+1026,"[{'alias': 'bars'}, {'alias': 'japanese'}]",33.89014,-118.30583,fUOyyF8X3F4iTKZBESlTFQ,1641 W Redondo Beach Blvd,,,Gardena,US,"1641 W Redondo Beach Blvd
+Gardena, CA 90247",90247,CA,Happa Restaurant,$$,4,131,https://www.yelp.com/biz/happa-restaurant-gardena?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,41,6.117271296,1
+1027,"[{'alias': 'karaoke'}, {'alias': 'sportsbars'}, {'alias': 'italian'}]",33.8899618,-118.305094,GJC-tDSYmP2PReInL38uKw,1605 W Redondo Beach Blvd,,,Gardena,US,"1605 W Redondo Beach Blvd
+Gardena, CA 90247",90247,CA,The Suzuran,$,4,17,https://www.yelp.com/biz/the-suzuran-gardena?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,41,5.230448921,2
+1028,"[{'alias': 'karaoke'}, {'alias': 'wine_bars'}, {'alias': 'beerbar'}]",33.88931795,-118.3077221,gg8ThdN8zZIn_XLTamDi1A,1717 W Redondo Beach Blvd,,,Gardena,US,"1717 W Redondo Beach Blvd
+Gardena, CA 90247",90247,CA,Bar 104,$$,4,9,https://www.yelp.com/biz/bar-104-gardena?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,41,4.954242509,3
+1025,[{'alias': 'poolhalls'}],33.8887591,-118.3101471,zmNxiZpeXrSrXrof4Kr1LA,1851 W Redondo Beach Blvd,,,Gardena,US,"1851 W Redondo Beach Blvd
+Gardena, CA 90247",90247,CA,Seoul Billiard,$,5,24,https://www.yelp.com/biz/seoul-billiard-gardena?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,41,6.380211242,4
+1063,[{'alias': 'bars'}],33.8830299,-118.409462,oLXsTTfyQkCCqy-nBabViw,900 Manhattan Ave,,,Manhattan Beach,US,"900 Manhattan Ave
+Manhattan Beach, CA 90266",90266,CA,Downstairs Bar,$$$,3.5,20,https://www.yelp.com/biz/downstairs-bar-manhattan-beach?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,43,4.801029996,1
+1057,"[{'alias': 'steak'}, {'alias': 'cocktailbars'}]",33.8829398,-118.4100003,PDOdkPzzekEO2tk7wg20YQ,903 Manhattan Ave,,,Manhattan Beach,US,"903 Manhattan Ave
+Manhattan Beach, CA 90266",90266,CA,The Arthur J,$$$$,4.5,461,https://www.yelp.com/biz/the-arthur-j-manhattan-beach?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,43,7.163700925,2
+1061,"[{'alias': 'divebars'}, {'alias': 'tradamerican'}]",33.88433,-118.41115,zoXseSuxvkkv-IkmYBzT2g,116 Manhattan Beach Blvd,,,Manhattan Beach,US,"116 Manhattan Beach Blvd
+Manhattan Beach, CA 90266",90266,CA,Shellback Tavern,$$,3.5,298,https://www.yelp.com/biz/shellback-tavern-manhattan-beach?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,43,5.974216264,3
+1059,"[{'alias': 'venues'}, {'alias': 'newamerican'}, {'alias': 'cocktailbars'}]",33.88478,-118.41135,a0iOCnbhj_O-8AjoK2mayw,117 Manhattan Beach Blvd,,,Manhattan Beach,US,"117 Manhattan Beach Blvd
+Manhattan Beach, CA 90266",90266,CA,The Strand House,$$$,4,1768,https://www.yelp.com/biz/the-strand-house-manhattan-beach?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,43,7.247482261,4
+1064,"[{'alias': 'cocktailbars'}, {'alias': 'lounges'}]",33.88478,-118.41135,pf0QpBRe3vk6kyURZb7BtA,117 Manhattan Beach Blvd,,,Manhattan Beach,US,"117 Manhattan Beach Blvd
+Manhattan Beach, CA 90266",90266,CA,StrandBar,$$,3.5,28,https://www.yelp.com/biz/strandbar-manhattan-beach-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,43,4.947158031,5
+1066,"[{'alias': 'restaurants'}, {'alias': 'musicvenues'}, {'alias': 'souvenirs'}]",33.8389818,-118.3913326,vDfNA7UCoKK3q1kkm7EOsQ,100 Fisherman's Wharf,,,Redondo Beach,US,"100 Fisherman's Wharf
+Redondo Beach, CA 90277",90277,CA,Redondo Beach Pier,$$,4,432,https://www.yelp.com/biz/redondo-beach-pier-redondo-beach?adjust_creative=KbX-3VX0iTtesKGOSeyYSg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=KbX-3VX0iTtesKGOSeyYSg,44,6.635483747,1
+1069,"[{'alias': 'seafood'}, {'alias': 'cocktailbars'}, {'alias': 'steak'}]",33.839258,-118.391556,Cgy8K2Z6q-D7OeBHXKpmdQ,210 Fishermans Wharf,,,Redondo Beach,US,"210 Fishermans Wharf
+Redondo Beach, CA 90277",90277,CA,Tony's On the Pier,$$,3.5,949,https://www.yelp.com/biz/tonys-on-the-pier-redondo-beach?adjust_creative=KbX-3VX0iTtesKGOSeyYSg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=KbX-3VX0iTtesKGOSeyYSg,44,6.477266212,2
+1068,"[{'alias': 'bars'}, {'alias': 'seafood'}]",33.839267,-118.391557,RyTRbKm6TuTA5W0uSmKQig,121 W Torrance Blvd,Ste 103,,Redondo Beach,US,"121 W Torrance Blvd
+Ste 103
+Redondo Beach, CA 90277",90277,CA,Tonys on the Pier,,3,14,https://www.yelp.com/biz/tonys-on-the-pier-redondo-beach-2?adjust_creative=KbX-3VX0iTtesKGOSeyYSg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=KbX-3VX0iTtesKGOSeyYSg,44,4.146128036,3
+1075,"[{'alias': 'seafoodmarkets'}, {'alias': 'seafood'}, {'alias': 'beerbar'}]",33.84075477,-118.3907894,bHaMJBeMXveeDDz2pItKMA,130 S International Boardwalk,,,Redondo Beach,US,"130 S International Boardwalk
+Redondo Beach, CA 90277",90277,CA,Quality Seafood,$$,4,1287,https://www.yelp.com/biz/quality-seafood-redondo-beach?adjust_creative=KbX-3VX0iTtesKGOSeyYSg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=KbX-3VX0iTtesKGOSeyYSg,44,7.109578547,4
+1067,"[{'alias': 'mexican'}, {'alias': 'bars'}, {'alias': 'breakfast_brunch'}]",33.838945,-118.39095,lQZODIsUWLqfJLZvubM6iQ,100 Fishermans Wharf,Ste G,,Redondo Beach,US,"100 Fishermans Wharf
+Ste G
+Redondo Beach, CA 90277",90277,CA,El Torito,$$,3.5,700,https://www.yelp.com/biz/el-torito-redondo-beach?adjust_creative=KbX-3VX0iTtesKGOSeyYSg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=KbX-3VX0iTtesKGOSeyYSg,44,6.34509804,5
+1083,"[{'alias': 'cocktailbars'}, {'alias': 'mexican'}, {'alias': 'breakfast_brunch'}]",33.8188,-118.38666,yqZF0sPLG9KngS_QxQPkBw,228 Ave I,,,Redondo Beach,US,"228 Ave I
+Redondo Beach, CA 90277",90277,CA,Kalaveras,$$,3.5,126,https://www.yelp.com/biz/kalaveras-redondo-beach?adjust_creative=KbX-3VX0iTtesKGOSeyYSg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=KbX-3VX0iTtesKGOSeyYSg,45,5.600370545,1
+1086,"[{'alias': 'bars'}, {'alias': 'irish'}]",33.81798935,-118.3876877,B9zQTRLN2OYNxPtqNRZp7g,1712 S Catalina Ave,,,Redondo Beach,US,"1712 S Catalina Ave
+Redondo Beach, CA 90277",90277,CA,Hennessey's,$$,3.5,214,https://www.yelp.com/biz/hennesseys-redondo-beach-2?adjust_creative=KbX-3VX0iTtesKGOSeyYSg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=KbX-3VX0iTtesKGOSeyYSg,45,5.830413773,2
+1078,"[{'alias': 'steak'}, {'alias': 'bars'}, {'alias': 'seafood'}]",33.8187506,-118.3851383,1Q9StN24nFr4L7cvV3hNEw,314 Avenue I,,,Redondo Beach,US,"314 Avenue I
+Redondo Beach, CA 90277",90277,CA,The Bull Pen,$$,4,344,https://www.yelp.com/biz/the-bull-pen-redondo-beach?adjust_creative=KbX-3VX0iTtesKGOSeyYSg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=KbX-3VX0iTtesKGOSeyYSg,45,6.536558443,3
+1085,"[{'alias': 'breakfast_brunch'}, {'alias': 'bars'}, {'alias': 'tradamerican'}]",33.81924,-118.38569,BdpybDHDsmfZKpmZ-pmhhw,1617 S Pacific Coast Hwy,Ste 102,,Redondo Beach,US,"1617 S Pacific Coast Hwy
+Ste 102
+Redondo Beach, CA 90277",90277,CA,Good Stuff,$$,4,543,https://www.yelp.com/biz/good-stuff-redondo-beach-2?adjust_creative=KbX-3VX0iTtesKGOSeyYSg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=KbX-3VX0iTtesKGOSeyYSg,45,6.73479983,4
+1077,"[{'alias': 'newamerican'}, {'alias': 'burgers'}, {'alias': 'beerbar'}]",33.818319,-118.384064,SFwfENwN9WVRgP1mA4aNZg,6300 S Pacific Coast Hwy,,,Redondo Beach,US,"6300 S Pacific Coast Hwy
+Redondo Beach, CA 90277",90277,CA,Rock & Brews - Redondo Beach,$$,4,1047,https://www.yelp.com/biz/rock-and-brews-redondo-beach-redondo-beach-4?adjust_creative=KbX-3VX0iTtesKGOSeyYSg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=KbX-3VX0iTtesKGOSeyYSg,45,7.019946682,5
+1094,"[{'alias': 'seafood'}, {'alias': 'venues'}, {'alias': 'sportsbars'}]",33.998649,-118.4809364,5hSEDBkSabGSfZRgiePPKQ,174 Kinney St,,,Santa Monica,US,"174 Kinney St
+Santa Monica, CA 90405",90405,CA,Enterprise Fish,$$,3.5,1952,https://www.yelp.com/biz/enterprise-fish-santa-monica-8?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,46,6.790479813,1
+1103,"[{'alias': 'danceclubs'}, {'alias': 'bars'}]",33.99976,-118.48158,zE3eBlH47SpG1ZfVwRPeIw,2810 Main St,,,Santa Monica,US,"2810 Main St
+Santa Monica, CA 90405",90405,CA,Nameless Bar & Nightclub,$$,3,20,https://www.yelp.com/biz/nameless-bar-and-nightclub-santa-monica?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,46,4.301029996,2
+1107,"[{'alias': 'italian'}, {'alias': 'wine_bars'}, {'alias': 'cocktailbars'}]",34.00112,-118.48295,UBPM1nF87u4bFu3G-E-Jcg,2654 Main St,,,Santa Monica,US,"2654 Main St
+Santa Monica, CA 90405",90405,CA,La Vecchia Cucina,$$,4,708,https://www.yelp.com/biz/la-vecchia-cucina-santa-monica?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,46,6.850033258,3
+1109,"[{'alias': 'irish_pubs'}, {'alias': 'pianobars'}, {'alias': 'sportsbars'}]",34.00072,-118.48263,3xGaFndV9BokzouhN0dMmA,2702 Main St,,,Santa Monica,US,"2702 Main St
+Santa Monica, CA 90405",90405,CA,Jameson's Pub,,3.5,60,https://www.yelp.com/biz/jamesons-pub-santa-monica?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,46,5.27815125,4
+1089,"[{'alias': 'cocktailbars'}, {'alias': 'italian'}, {'alias': 'tradamerican'}]",34.003757,-118.484819,#NAME?,2435 Main St,,,Santa Monica,US,"2435 Main St
+Santa Monica, CA 90405",90405,CA,Tipsy Chef,,2.5,2,https://www.yelp.com/biz/tipsy-chef-santa-monica?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,46,2.801029996,5
+1090,"[{'alias': 'seafood'}, {'alias': 'steak'}, {'alias': 'bars'}]",34.00333598,-118.4850262,AIjQv243VTpFpujbKxuKOg,2442 Main St,,,Santa Monica,US,"2442 Main St
+Santa Monica, CA 90405",90405,CA,The Galley,$$,3.5,433,https://www.yelp.com/biz/the-galley-santa-monica?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,46,6.136487896,6
+1108,[{'alias': 'cigarbars'}],33.997592,-118.47953,zCWWTxqhKlXg6OumfC6uSA,3110 Main St,Ste 106,,Santa Monica,US,"3110 Main St
+Ste 106
+Santa Monica, CA 90405",90405,CA,Hollywood Smoke,$$,4.5,91,https://www.yelp.com/biz/hollywood-smoke-santa-monica?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,46,6.459041392,7
+1088,"[{'alias': 'bars'}, {'alias': 'newamerican'}]",34.00145,-118.48327,Vb2IPxRvSHP-L9RnUJZbUQ,2640 Main St,,,Santa Monica,US,"2640 Main St
+Santa Monica, CA 90405",90405,CA,Basement Tavern,$$,3.5,477,https://www.yelp.com/biz/basement-tavern-santa-monica?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,46,6.178518379,8
+1087,[{'alias': 'bars'}],34.00145,-118.48327,C8I_MIaR_kj8Fd6Ntf3p8g,2640 Main St,,,Santa Monica,US,"2640 Main St
+Santa Monica, CA 90405",90405,CA,The Birdcage,$$$,3,83,https://www.yelp.com/biz/the-birdcage-santa-monica?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,46,4.919078092,9
+1114,"[{'alias': 'musicvenues'}, {'alias': 'cocktailbars'}]",33.9872,-118.47258,g7GRCpqihGxaotRM8DHawQ,52 Windward Ave,,,Venice,US,"52 Windward Ave
+Venice, CA 90291",90291,CA,Townhouse Cocktails,$$,3.5,381,https://www.yelp.com/biz/townhouse-cocktails-venice?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,47,6.080924976,1
+1115,[{'alias': 'speakeasies'}],33.9872017,-118.47258,cQoRA9YNgAn-YUrOsBvQMQ,52 Windward Ave,,,Venice,US,"52 Windward Ave
+Venice, CA 90291",90291,CA,The Del Monte Speakeasy,$$,4,105,https://www.yelp.com/biz/the-del-monte-speakeasy-venice?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,47,6.021189299,2
+1117,"[{'alias': 'cocktailbars'}, {'alias': 'mediterranean'}]",33.98749,-118.472348,4fr7rv_nQ4OCyCSqw8wx5g,80 Windward Ave,,,Venice,US,"80 Windward Ave
+Venice, CA 90291",90291,CA,Gran Blanco,,3.5,38,https://www.yelp.com/biz/gran-blanco-venice?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,47,5.079783597,3
+1111,"[{'alias': 'gastropubs'}, {'alias': 'bars'}, {'alias': 'newamerican'}]",33.9870803,-118.4730073,Dr_MVE1UiNl-BhN_h_bxlw,24 Windward Ave,,,Venice,US,"24 Windward Ave
+Venice, CA 90291",90291,CA,Larry's,$$,3.5,591,https://www.yelp.com/biz/larrys-venice?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,47,6.271587481,4
+1123,"[{'alias': 'italian'}, {'alias': 'desserts'}, {'alias': 'wine_bars'}]",33.98878,-118.44663,hdR84S6CC7-xn-n2ymqs7A,4059 Lincoln Blvd,,,Marina Del Rey,US,"4059 Lincoln Blvd
+Marina Del Rey, CA 90292",90292,CA,Locanda Positano,$$$,4,575,https://www.yelp.com/biz/locanda-positano-marina-del-rey?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,48,6.759667845,1
+1122,"[{'alias': 'brewpubs'}, {'alias': 'newamerican'}, {'alias': 'wine_bars'}]",33.98972,-118.44861,r0zVDf0dwgSEJ-6giFkZTw,3205 Washington Blvd,,,Marina Del Rey,US,"3205 Washington Blvd
+Marina Del Rey, CA 90292",90292,CA,Firestone Walker Brewing Company - The Propagator,$$,4,625,https://www.yelp.com/biz/firestone-walker-brewing-company-the-propagator-marina-del-rey?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,48,6.795880017,2
+1121,"[{'alias': 'sportsbars'}, {'alias': 'smokehouse'}]",33.990595,-118.446912,BaNXgUfT95YajjjGH6jtuQ,13484 W Washington Blvd,,,Marina del Rey,US,"13484 W Washington Blvd
+Marina del Rey, CA 90292",90292,CA,Washington Ale House,,4,47,https://www.yelp.com/biz/washington-ale-house-marina-del-rey?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,48,5.672097858,3
+1128,"[{'alias': 'italian'}, {'alias': 'bars'}]",33.985111,-118.441029,rWb8ub-bkuOpalrgz-aM-w,13480 Maxella Ave,,,Marina del Rey,US,"13480 Maxella Ave
+Marina del Rey, CA 90292",90292,CA,Barbianca Local Kitchen,$$,4,173,https://www.yelp.com/biz/barbianca-local-kitchen-marina-del-rey-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,49,6.238046103,1
+1129,"[{'alias': 'steak'}, {'alias': 'bars'}, {'alias': 'venues'}]",33.986639,-118.442089,rKL4-4i0yGAOEs7EpNSgzw,13455 Maxella Ave,Ste 230,,Marina del Rey,US,"13455 Maxella Ave
+Ste 230
+Marina del Rey, CA 90292",90292,CA,Ruth's Chris Steak House,$$$,4,649,https://www.yelp.com/biz/ruths-chris-steak-house-marina-del-rey?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,49,6.812244697,2
+1126,"[{'alias': 'newamerican'}, {'alias': 'vegetarian'}, {'alias': 'bars'}]",33.98672113,-118.4416935,oW4e6jT3J6nuZtIjlsTd8Q,13455 Maxella Ave,,,Marina del Rey,US,"13455 Maxella Ave
+Marina del Rey, CA 90292",90292,CA,Yard House,$$,3.5,915,https://www.yelp.com/biz/yard-house-marina-del-rey?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,49,6.461421094,3
+1187,"[{'alias': 'bars'}, {'alias': 'tapasmallplates'}, {'alias': 'newamerican'}]",34.0250815,-118.4913361,mLkaGrGmwreX-yHIgMCvYQ,1119 Wilshire Blvd,,,Santa Monica,US,"1119 Wilshire Blvd
+Santa Monica, CA 90401",90401,CA,Rustic Canyon,$$$,4,1261,https://www.yelp.com/biz/rustic-canyon-santa-monica?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,51,7.100715087,1
+1186,"[{'alias': 'sportsbars'}, {'alias': 'tradamerican'}]",34.02483,-118.49172,YZyHy15oQISxb2kRo9lI1A,1101 Wilshire Blvd,,,Santa Monica,US,"1101 Wilshire Blvd
+Santa Monica, CA 90401",90401,CA,JP's Sports Bar and Grill,$,3,116,https://www.yelp.com/biz/jps-sports-bar-and-grill-santa-monica?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,51,5.064457989,2
+1190,"[{'alias': 'mexican'}, {'alias': 'bars'}]",34.02450562,-118.4922409,V2usEClDzXSr7udUs2UyZQ,1025 Wilshire Blvd,,,Santa Monica,US,"1025 Wilshire Blvd
+Santa Monica, CA 90401",90401,CA,El Cholo,$$,3.5,1090,https://www.yelp.com/biz/el-cholo-santa-monica-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,51,6.537426498,3
+1189,[{'alias': 'musicvenues'}],34.02560425,-118.4943161,az-yIGGavdgPTLNB899dbg,1015 California Ave,,,Santa Monica,US,"1015 California Ave
+Santa Monica, CA 90403",90403,CA,Tenth & California Open Mic,$,4.5,5,https://www.yelp.com/biz/tenth-and-california-open-mic-santa-monica?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,51,5.198970004,4
+1197,"[{'alias': 'newamerican'}, {'alias': 'cocktailbars'}, {'alias': 'breakfast_brunch'}]",33.83433,-118.31539,ixhCSvlcYmfk2p9q5z4qtg,1321 Sartori Ave,,,Torrance,US,"1321 Sartori Ave
+Torrance, CA 90501",90501,CA,Local Kitchen,$$,4.5,805,https://www.yelp.com/biz/local-kitchen-torrance-3?adjust_creative=KbX-3VX0iTtesKGOSeyYSg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=KbX-3VX0iTtesKGOSeyYSg,52,7.40579588,1
+1194,"[{'alias': 'wine_bars'}, {'alias': 'newamerican'}, {'alias': 'gastropubs'}]",33.83348,-118.31618,s0y9-CAZq1p-10giaj2pNg,1437 Marcelina Ave,,,Torrance,US,"1437 Marcelina Ave
+Torrance, CA 90501",90501,CA,Restoration Kitchen & Wine,$$,4.5,407,https://www.yelp.com/biz/restoration-kitchen-and-wine-torrance?adjust_creative=KbX-3VX0iTtesKGOSeyYSg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=KbX-3VX0iTtesKGOSeyYSg,52,7.109594409,2
+1193,"[{'alias': 'pubs'}, {'alias': 'sportsbars'}, {'alias': 'danceclubs'}]",33.83329,-118.31556,nGNPGTCDJbr4Y4X9wf45XA,1434 Marcelina Ave,,,Torrance,US,"1434 Marcelina Ave
+Torrance, CA 90501",90501,CA,Keegan's Sports Lounge and Grill,$$,3,426,https://www.yelp.com/biz/keegans-sports-lounge-and-grill-torrance?adjust_creative=KbX-3VX0iTtesKGOSeyYSg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=KbX-3VX0iTtesKGOSeyYSg,52,5.629409599,3
+1214,"[{'alias': 'tradamerican'}, {'alias': 'pubs'}]",33.9796257,-118.0369949,xtnpR4lCCDL4coLwxojxOw,6740 Greenleaf Ave,,,Whittier,US,"6740 Greenleaf Ave
+Whittier, CA 90601",90601,CA,The 6740,$$,4,346,https://www.yelp.com/biz/the-6740-whittier?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,53,6.539076099,1
+1199,"[{'alias': 'seafood'}, {'alias': 'wine_bars'}, {'alias': 'beerbar'}]",33.97558,-118.03585,AS17ocmcgu_UCFVONZs3Nw,13103 Penn St,,,Whittier,US,"13103 Penn St
+Whittier, CA 90602",90602,CA,Crooked Gaff Kitchen,$$,4.5,140,https://www.yelp.com/biz/crooked-gaff-kitchen-whittier?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,53,6.646128036,2
+1200,"[{'alias': 'lounges'}, {'alias': 'italian'}]",33.97570667,-118.0366283,5tYjRNU0bYcuXvALApFWSw,13033 Penn St,Ste 100,,Whittier,US,"13033 Penn St
+Ste 100
+Whittier, CA 90602",90602,CA,The Mission Square Restaurant & Lounge,$$,4,289,https://www.yelp.com/biz/the-mission-square-restaurant-and-lounge-whittier-2?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,53,6.460897843,3
+1202,"[{'alias': 'countrydancehalls'}, {'alias': 'venues'}]",33.9734001,-118.0370102,prTMlTPF6hwYGU7Aa9eLyQ,7604 Greenleaf Ave,,,Whittier,US,"7604 Greenleaf Ave
+Whittier, CA 90602",90602,CA,Whittier Masonic Banquet Hall,$,2.5,7,https://www.yelp.com/biz/whittier-masonic-banquet-hall-whittier?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,53,3.34509804,4
+1213,"[{'alias': 'lounges'}, {'alias': 'newamerican'}]",33.98226,-118.03771,0KdmPgB8IpfO88SCbvRyyQ,6511 Greenleaf Ave,,,Whittier,US,"6511 Greenleaf Ave
+Whittier, CA 90601",90601,CA,Sage Restaurant & Lounge,$$,2.5,279,https://www.yelp.com/biz/sage-restaurant-and-lounge-whittier?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,53,4.945604203,5
+1198,"[{'alias': 'sportsbars'}, {'alias': 'tradamerican'}]",33.97689,-118.03823,vmfUbRf-ft2Iyom3F7J9eg,7205 Greenleaf Ave,Ste A1,,Whittier,US,"7205 Greenleaf Ave
+Ste A1
+Whittier, CA 90602",90602,CA,The Alumni Sports Restaurant,$,4.5,126,https://www.yelp.com/biz/the-alumni-sports-restaurant-whittier?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,53,6.600370545,6
+1206,"[{'alias': 'mexican'}, {'alias': 'sportsbars'}, {'alias': 'seafood'}]",33.977945,-118.037726,p6lhuX8OSRQ0_62kfkFKOA,7039 Greenleaf Ave,,,Whittier,US,"7039 Greenleaf Ave
+Whittier, CA 90602",90602,CA,La Pescadora,$$,3,315,https://www.yelp.com/biz/la-pescadora-whittier-3?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,53,5.498310554,7
+1201,[{'alias': 'lounges'}],33.974667,-118.036751,m83EGukcr9cXbFUL527ujA,7320 Greenleaf Ave,,,Whittier,US,"7320 Greenleaf Ave
+Whittier, CA 90602",90602,CA,Level One Club and Ultra Lounge,,3,1,https://www.yelp.com/biz/level-one-club-and-ultra-lounge-whittier?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,53,3,8
+1221,"[{'alias': 'tradamerican'}, {'alias': 'bars'}, {'alias': 'karaoke'}]",33.34364,-118.32581,2do6wB6EWDQiccCZ7T-d0Q,411 Crescent Ave,,,Avalon,US,"411 Crescent Ave
+Avalon, CA 90704",90704,CA,El Galleon,$$,4,49,https://www.yelp.com/biz/el-galleon-avalon-5?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,54,5.69019608,1
+1222,"[{'alias': 'steak'}, {'alias': 'seafood'}, {'alias': 'bars'}]",33.34333,-118.32567,AzDR80BlugJJmlR7R48HRg,417 Crescent Ave,,,Avalon,US,"417 Crescent Ave
+Avalon, CA 90704",90704,CA,Steve's Steakhouse,$$$,4,955,https://www.yelp.com/biz/steves-steakhouse-avalon?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,54,6.980003372,2
+1220,[{'alias': 'divebars'}],33.34314611,-118.3254045,v45wzE6IoN4fFEYZS4ZxJg,108 Catalina Ave,,,Avalon,US,"108 Catalina Ave
+Avalon, CA 90704",90704,CA,Marlin Club,$,4,157,https://www.yelp.com/biz/marlin-club-avalon?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,54,6.195899652,3
+1218,"[{'alias': 'newamerican'}, {'alias': 'bars'}]",33.343146,-118.325099,ejkivioxBWVZO79RkLbd5w,509 Crescent Ave,,,Avalon,US,"509 Crescent Ave
+Avalon, CA 90704",90704,CA,Luau Larry's,$$,3.5,509,https://www.yelp.com/biz/luau-larrys-avalon?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,54,6.206717782,4
+1227,"[{'alias': 'cocktailbars'}, {'alias': 'mexican'}, {'alias': 'breakfast_brunch'}]",33.88403862,-118.1249601,oOdCfr6onsCug2e5fW4MXw,16530 Bellflower Blvd,,,Bellflower,US,"16530 Bellflower Blvd
+Bellflower, CA 90706",90706,CA,Kalaveras,$$,3.5,998,https://www.yelp.com/biz/kalaveras-bellflower-2?adjust_creative=KbX-3VX0iTtesKGOSeyYSg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=KbX-3VX0iTtesKGOSeyYSg,55,6.499130541,1
+1228,[{'alias': 'wine_bars'}],33.8845,-118.12493,PRM8FhZ9FI-dW9Y-cbfFeA,16500 Bellflower Blvd,,,Bellflower,US,"16500 Bellflower Blvd
+Bellflower, CA 90706",90706,CA,Off Duty Wine Bar,,4.5,2,https://www.yelp.com/biz/off-duty-wine-bar-bellflower?adjust_creative=KbX-3VX0iTtesKGOSeyYSg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=KbX-3VX0iTtesKGOSeyYSg,55,4.801029996,2
+1223,"[{'alias': 'tobaccoshops'}, {'alias': 'lounges'}]",33.88432,-118.12557,petA6TyCXYM5IjHSCfpWoA,16515 Bellflower Blvd,,,Bellflower,US,"16515 Bellflower Blvd
+Bellflower, CA 90706",90706,CA,Bo's Cigar Lounge,$$,4.5,150,https://www.yelp.com/biz/bos-cigar-lounge-bellflower?adjust_creative=KbX-3VX0iTtesKGOSeyYSg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=KbX-3VX0iTtesKGOSeyYSg,55,6.676091259,3
+1226,"[{'alias': 'bars'}, {'alias': 'cajun'}, {'alias': 'southern'}]",33.8824293,-118.1249051,fbVSk0MHk7stJRFC9_kKjg,16728 Bellflower Blvd,,,Bellflower,US,"16728 Bellflower Blvd
+Bellflower, CA 90706",90706,CA,French Quarter Creole Bar & Grill,$$,3.5,265,https://www.yelp.com/biz/french-quarter-creole-bar-and-grill-bellflower?adjust_creative=KbX-3VX0iTtesKGOSeyYSg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=KbX-3VX0iTtesKGOSeyYSg,55,5.923245874,4
+1231,"[{'alias': 'wine_bars'}, {'alias': 'tapasmallplates'}]",33.7386924,-118.2874902,u8VpqjiDz8htHzaumjRxHA,491 6th St,Ste 103,,San Pedro,US,"491 6th St
+Ste 103
+San Pedro, CA 90731",90731,CA,Off the Vine,$$,4.5,151,https://www.yelp.com/biz/off-the-vine-san-pedro?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,56,6.678976947,1
+1237,"[{'alias': 'theater'}, {'alias': 'movietheaters'}, {'alias': 'musicvenues'}]",33.739,-118.28735,UbzQrgm1TwmHZRspcPxtuA,478 W 6th St,,,San Pedro,US,"478 W 6th St
+San Pedro, CA 90731",90731,CA,Warner Grand Theatre,$$,4,81,https://www.yelp.com/biz/warner-grand-theatre-san-pedro?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,56,5.908485019,2
+1238,[{'alias': 'divebars'}],33.73792268,-118.2837137,cjqokUcgPgxg0ek_nrZBSw,302 W 7th St,,,San Pedro,US,"302 W 7th St
+San Pedro, CA 90731",90731,CA,Godmother's Saloon,$,3.5,63,https://www.yelp.com/biz/godmothers-saloon-san-pedro?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,56,5.299340549,3
+1229,"[{'alias': 'latin'}, {'alias': 'cocktailbars'}]",33.73942,-118.28517,P4qBeTu9X1N37vJ6JGNVLA,383 W 5th St,,,San Pedro,US,"383 W 5th St
+San Pedro, CA 90731",90731,CA,Kalaveras,$$,3.5,51,https://www.yelp.com/biz/kalaveras-san-pedro?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,56,5.207570176,4
+1230,[{'alias': 'sportsbars'}],33.7388849,-118.284616,FgRp7T3eot9wPgUCpvKMbg,356 W 6th St,,,San Pedro,US,"356 W 6th St
+San Pedro, CA 90732",90732,CA,Goodfellas Sports Bar,$$,3,40,https://www.yelp.com/biz/goodfellas-sports-bar-san-pedro?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,56,4.602059991,5
+1322,"[{'alias': 'hotdog'}, {'alias': 'sportsbars'}, {'alias': 'mexican'}]",33.759153,-118.13267,lgGYDaCVU_FHa_SEfaGVcQ,5300 E 2nd St,,,Long Beach,US,"5300 E 2nd St
+Long Beach, CA 90803",90803,CA,Dogz Bar and Grill,$$,3,64,https://www.yelp.com/biz/dogz-bar-and-grill-long-beach-5?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,58,4.806179974,1
+1310,"[{'alias': 'sportsbars'}, {'alias': 'chicken_wings'}]",33.75972,-118.13429,qw3hmbXiiYHlbibhkaBAjw,5236 E 2nd St,,,Long Beach,US,"5236 E 2nd St
+Long Beach, CA 90803",90803,CA,Legends,$$,3,831,https://www.yelp.com/biz/legends-long-beach?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,58,5.919601024,2
+1313,"[{'alias': 'burgers'}, {'alias': 'tradamerican'}, {'alias': 'cocktailbars'}]",33.76031,-118.13569,c3QtASdkyP50WWfIDulTVg,5110 E 2nd St,,,Long Beach,US,"5110 E 2nd St
+Long Beach, CA 90803",90803,CA,Long Beach Tap House,$$,4,103,https://www.yelp.com/biz/long-beach-tap-house-long-beach?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,58,6.012837225,3
+1314,[{'alias': 'divebars'}],33.7591004,-118.13165,CiL9Iiaj2So66wAe3ed0hQ,5335 E 2nd St,,,Long Beach,US,"5335 E 2nd St
+Long Beach, CA 90803",90803,CA,Shannon's Bayshore,$,3,234,https://www.yelp.com/biz/shannons-bayshore-long-beach?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,58,5.369215857,4
+1308,[{'alias': 'musicvenues'}],33.7589934,-118.1322465,-29yhP8vx_wKeJlVYQo3ow,5318 E 2nd St,Ste 627,,Long Beach,US,"5318 E 2nd St
+Ste 627
+Long Beach, CA 90803",90803,CA,Goal Tickets,$$,1,1,https://www.yelp.com/biz/goal-tickets-long-beach?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,58,1,5
+1321,"[{'alias': 'burgers'}, {'alias': 'pizza'}, {'alias': 'beerbar'}]",33.7591984,-118.1316349,JhC0EhKvAuMBwKKZ5giryQ,5331 E 2nd St,,,Long Beach,US,"5331 E 2nd St
+Long Beach, CA 90803",90803,CA,Riley's Belmont Shore,$$,4,367,https://www.yelp.com/biz/rileys-belmont-shore-long-beach?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,58,6.564666064,6
+1309,"[{'alias': 'seafood'}, {'alias': 'sushi'}, {'alias': 'cocktailbars'}]",33.75821,-118.13077,_w4gANHG-bRRos8n2aIUeg,5374 E 2nd St,,,Long Beach,US,"5374 E 2nd St
+Long Beach, CA 90803",90803,CA,Roe Seafood,$$,4,857,https://www.yelp.com/biz/roe-seafood-long-beach-3?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,58,6.932980822,7
+1326,"[{'alias': 'newamerican'}, {'alias': 'wine_bars'}]",33.7643051,-118.1509824,8EQIGM28Y32yFf6YT9o39Q,3506 E Broadway,,,Long Beach,US,"3506 E Broadway
+Long Beach, CA 90803",90803,CA,Taste Wine-Beer-Kitchen,$$,4.5,229,https://www.yelp.com/biz/taste-wine-beer-kitchen-long-beach-2?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,59,6.859835482,1
+1327,"[{'alias': 'pubs'}, {'alias': 'beergardens'}]",33.7645749,-118.152,CNT60523kKGhSAczA3_yqQ,3411 E Broadway Ave,,,Long Beach,US,"3411 E Broadway Ave
+Long Beach, CA 90803",90803,CA,The Firkin Pub & Grill,$$,4.5,140,https://www.yelp.com/biz/the-firkin-pub-and-grill-long-beach?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,59,6.646128036,2
+1325,"[{'alias': 'divebars'}, {'alias': 'mexican'}]",33.764333,-118.152275,h9kzD61rtRkHpFpaB7yV3w,3400 E Broadway,,,Long Beach,US,"3400 E Broadway
+Long Beach, CA 90803",90803,CA,Reno Room,$,4,213,https://www.yelp.com/biz/reno-room-long-beach?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,59,6.328379603,3
+1324,"[{'alias': 'sportsbars'}, {'alias': 'divebars'}]",33.7643051,-118.1528188,FbzodGUX2ZeXdvylKg6LUw,3348 E Broadway,,,Long Beach,US,"3348 E Broadway
+Long Beach, CA 90803",90803,CA,Baddeley's Pourhouse,$,4.5,180,https://www.yelp.com/biz/baddeleys-pourhouse-long-beach?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,59,6.755272505,4
+1341,"[{'alias': 'gastropubs'}, {'alias': 'cocktailbars'}]",34.14798,-118.00067,BB94O_7TTvDf7elM8vq92A,402 S Myrtle Ave,,,Monrovia,US,"402 S Myrtle Ave
+Monrovia, CA 91016",91016,CA,Basin 141,$$,4,149,https://www.yelp.com/biz/basin-141-monrovia-2?adjust_creative=V3l5IUs_zBgMIaucKyOTzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=V3l5IUs_zBgMIaucKyOTzQ,60,6.173186268,1
+1334,"[{'alias': 'italian'}, {'alias': 'wine_bars'}]",34.1478232,-118.0009567,njy9GRx-v9LrSXRg0LeYVQ,422 S Myrtle Ave,,,Monrovia,US,"422 S Myrtle Ave
+Monrovia, CA 91016",91016,CA,Bella Sera Trattoria,$$,4,600,https://www.yelp.com/biz/bella-sera-trattoria-monrovia-3?adjust_creative=V3l5IUs_zBgMIaucKyOTzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=V3l5IUs_zBgMIaucKyOTzQ,60,6.77815125,2
+1336,"[{'alias': 'newamerican'}, {'alias': 'beerbar'}, {'alias': 'bbq'}]",34.1467534,-118.0008151,GnGnKiwP46hnWHDCGYYz_g,504 S Myrtle Ave,,,Monrovia,US,"504 S Myrtle Ave
+Monrovia, CA 91016",91016,CA,The 1776,$$,4,233,https://www.yelp.com/biz/the-1776-monrovia?adjust_creative=V3l5IUs_zBgMIaucKyOTzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=V3l5IUs_zBgMIaucKyOTzQ,60,6.367355921,3
+1340,"[{'alias': 'mexican'}, {'alias': 'bars'}]",34.1457176,-118.0007951,gYMr3RZUCRguja7SR33xMg,602 S Myrtle Ave,,,Monrovia,US,"602 S Myrtle Ave
+Monrovia, CA 91016",91016,CA,Rudy's Mexican Restaurant,$$,3.5,326,https://www.yelp.com/biz/rudys-mexican-restaurant-monrovia-2?adjust_creative=V3l5IUs_zBgMIaucKyOTzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=V3l5IUs_zBgMIaucKyOTzQ,60,6.0132176,4
+1333,"[{'alias': 'mediterranean'}, {'alias': 'bars'}, {'alias': 'lebanese'}]",34.1471165,-118.0006422,sC4vK7Qs6uELOmK_NWgZDA,109 E Lemon Ave,,,Monrovia,US,"109 E Lemon Ave
+Monrovia, CA 91016",91016,CA,The Diplomat,$$,4.5,433,https://www.yelp.com/biz/the-diplomat-monrovia?adjust_creative=V3l5IUs_zBgMIaucKyOTzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=V3l5IUs_zBgMIaucKyOTzQ,60,7.136487896,5
+1342,"[{'alias': 'newamerican'}, {'alias': 'cocktailbars'}, {'alias': 'sandwiches'}]",34.2052784,-118.2275655,1yR6FZ1W0xttVkSqSKy40Q,2276 Honolulu Ave,,,Montrose,US,"2276 Honolulu Ave
+Montrose, CA 91020",91020,CA,Town Kitchen & Grill,$$,4,313,https://www.yelp.com/biz/town-kitchen-and-grill-montrose-2?adjust_creative=V3l5IUs_zBgMIaucKyOTzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=V3l5IUs_zBgMIaucKyOTzQ,61,6.495544338,1
+1350,"[{'alias': 'mexican'}, {'alias': 'bars'}]",34.20527,-118.2275435,ttyhiHIi-zLGbGnYr-sLaQ,2272 Honolulu Ave,,,Montrose,US,"2272 Honolulu Ave
+Montrose, CA 91020",91020,CA,Pepe's Mexican Restaurant,$$,3.5,331,https://www.yelp.com/biz/pepes-mexican-restaurant-montrose-2?adjust_creative=V3l5IUs_zBgMIaucKyOTzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=V3l5IUs_zBgMIaucKyOTzQ,61,6.019827994,2
+1347,"[{'alias': 'pubs'}, {'alias': 'gastropubs'}, {'alias': 'newamerican'}]",34.2054672,-118.2270961,MHZ6BF4dpU9DNGaWMtBVWw,2265 Honolulu Ave,,,Montrose,US,"2265 Honolulu Ave
+Montrose, CA 91020",91020,CA,Basin 141,$$,4,517,https://www.yelp.com/biz/basin-141-montrose?adjust_creative=V3l5IUs_zBgMIaucKyOTzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=V3l5IUs_zBgMIaucKyOTzQ,61,6.713490543,3
+1348,"[{'alias': 'bbq'}, {'alias': 'smokehouse'}, {'alias': 'bars'}]",34.205335,-118.225658,cp1oifSmu68BV1LgLtqjlA,2209 Honolulu Ave,,,Montrose,US,"2209 Honolulu Ave
+Montrose, CA 91020",91020,CA,Zeke's Smokehouse Barbeque,$$,3.5,532,https://www.yelp.com/biz/zekes-smokehouse-barbeque-montrose?adjust_creative=V3l5IUs_zBgMIaucKyOTzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=V3l5IUs_zBgMIaucKyOTzQ,61,6.225911632,4
+1406,"[{'alias': 'pubs'}, {'alias': 'tradamerican'}]",34.147311,-118.129596,3ECZI0UqG-DT_qa23SqQ-w,37 N Catalina Ave,,,Pasadena,US,"37 N Catalina Ave
+Pasadena, CA 91106",91106,CA,T. Boyles Tavern,$,4,371,https://www.yelp.com/biz/t-boyles-tavern-pasadena?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,63,6.56937391,1
+1399,"[{'alias': 'chinese'}, {'alias': 'bars'}, {'alias': 'seafood'}]",34.14574283,-118.1309245,_qeTFC9zDGeMabENTX1T0w,928 E Colorado Blvd,,,Pasadena,US,"928 E Colorado Blvd
+Pasadena, CA 91106",91106,CA,Li Orient Asian Bar & Restaurant,,3.5,5,https://www.yelp.com/biz/li-orient-asian-bar-and-restaurant-pasadena?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,63,4.198970004,2
+1401,"[{'alias': 'asianfusion'}, {'alias': 'cocktailbars'}, {'alias': 'tapasmallplates'}]",34.1455355,-118.1310394,Qasj3CAKnP_8N5noLz2Vsw,928 E Colorado Blvd,,,Pasadena,US,"928 E Colorado Blvd
+Pasadena, CA 91106",91106,CA,Constance Perry's Lounge,$$,3.5,39,https://www.yelp.com/biz/constance-perrys-lounge-pasadena?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,63,5.091064607,3
+1407,"[{'alias': 'mexican'}, {'alias': 'cocktailbars'}]",34.143303,-118.131822,IKWVlHgZMYruSLWWm9Yd5Q,140 S Lake Ave,Ste 101,,Pasadena,US,"140 S Lake Ave
+Ste 101
+Pasadena, CA 91101",91101,CA,Mercado Pasadena,$$,4,404,https://www.yelp.com/biz/mercado-pasadena-pasadena-2?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,63,6.606381365,4
+1400,"[{'alias': 'french'}, {'alias': 'newamerican'}, {'alias': 'cocktailbars'}]",34.14502,-118.13124,MJMTsZ0ty0RCyUjF_6XVPg,45 S Mentor Ave,,,Pasadena,US,"45 S Mentor Ave
+Pasadena, CA 91106",91106,CA,Bistro 45,$$$,4.5,729,https://www.yelp.com/biz/bistro-45-pasadena?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,63,7.362727528,5
+1419,[{'alias': 'danceclubs'}],34.1445606,-118.2548151,cJkcBDd-eGPTUGhfV0lOSA,154 S Brand Blvd,,,Glendale,US,"154 S Brand Blvd
+Glendale, CA 91204",91204,CA,Club Illumination Radio,,4,1,https://www.yelp.com/biz/club-illumination-radio-glendale?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,64,4,1
+1422,"[{'alias': 'bars'}, {'alias': 'newamerican'}]",34.1446,-118.25461,E9ddFN9dTC-QnMMhQmR_hQ,154 S Brand Blvd,,,Glendale,US,"154 S Brand Blvd
+Glendale, CA 91204",91204,CA,The Famous,$$,4.5,522,https://www.yelp.com/biz/the-famous-glendale?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,64,7.217670503,2
+1431,"[{'alias': 'persian'}, {'alias': 'mideastern'}, {'alias': 'hookah_bars'}]",34.14674377,-118.2546463,DwPf8dkC0xjdqcmUznf6OQ,108 N Brand Blvd,,,Glendale,US,"108 N Brand Blvd
+Glendale, CA 91203",91203,CA,Royal Vanak,$$,4,210,https://www.yelp.com/biz/royal-vanak-glendale-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,64,6.322219295,3
+1410,"[{'alias': 'newamerican'}, {'alias': 'breakfast_brunch'}, {'alias': 'cocktailbars'}]",34.14510881,-118.2550925,M1N8QH15HzL5wsJX0Me_ow,807 Americana Way,,,Glendale,US,"807 Americana Way
+Glendale, CA 91210",91210,CA,GRANVILLE,$$,4,2509,https://www.yelp.com/biz/granville-glendale?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,64,7.399500661,4
+1432,"[{'alias': 'burgers'}, {'alias': 'cocktailbars'}, {'alias': 'venues'}]",34.14868058,-118.2547214,nvVClUsSXCMtyA2DxCI0vQ,214 N Brand Blvd,,,Glendale,US,"214 N Brand Blvd
+Glendale, CA 91203",91203,CA,Eden On Brand,$$,4,680,https://www.yelp.com/biz/eden-on-brand-glendale-4?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,64,6.832508913,5
+1408,"[{'alias': 'wine_bars'}, {'alias': 'diners'}, {'alias': 'cocktailbars'}]",34.143568,-118.256547,zpRDtNfGOGLS54pwImjdzg,783 Americana Way,,,Glendale,US,"783 Americana Way
+Glendale, CA 91210",91210,CA,Ombra,$$,4,145,https://www.yelp.com/biz/ombra-glendale?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,64,6.161368002,6
+1409,"[{'alias': 'newamerican'}, {'alias': 'cocktailbars'}]",34.14308184,-118.2560992,cKp1cDlpJZFP529sHS894w,102 Caruso Ave,,,Glendale,US,"102 Caruso Ave
+Glendale, CA 91210",91210,CA,Bar Verde at Nordstrom,$$,4,340,https://www.yelp.com/biz/bar-verde-at-nordstrom-glendale?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,64,6.531478917,7
+1411,"[{'alias': 'wine_bars'}, {'alias': 'italian'}]",34.1437809,-118.2553149,ECxbZjmpDgyI2wCzwlnFeA,757 Americana Way,,,Glendale,US,"757 Americana Way
+Glendale, CA 91210",91210,CA,Bacari GDL,$$,4.5,692,https://www.yelp.com/biz/bacari-gdl-glendale-3?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,64,7.340106094,8
+1448,"[{'alias': 'theater'}, {'alias': 'comedyclubs'}, {'alias': 'social_clubs'}]",34.16495946,-118.371565,Zzr3bDfxxDU-evRGw6lHHg,11020 Magnolia Blvd,,,North Hollywood,US,"11020 Magnolia Blvd
+North Hollywood, CA 91204",91204,CA,Spoken Funk,$,5,27,https://www.yelp.com/biz/spoken-funk-north-hollywood-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,65,6.431363764,1
+1433,"[{'alias': 'pubs'}, {'alias': 'poolhalls'}, {'alias': 'divebars'}]",34.164801,-118.373569,lo7rAHx_AfMKO0p_Y4OW8g,11130 Magnolia Blvd,,,North Hollywood,US,"11130 Magnolia Blvd
+North Hollywood, CA 91601",91601,CA,The Brickyard Pub,$$,4,476,https://www.yelp.com/biz/the-brickyard-pub-north-hollywood?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,65,6.677606953,2
+1446,"[{'alias': 'peruvian'}, {'alias': 'tapas'}, {'alias': 'bars'}]",34.16449,-118.37404,S2N5blKy8-7VZap0dnF2gQ,5156 Lankershim Blvd,,,Los Angeles,US,"5156 Lankershim Blvd
+Los Angeles, CA 91601",91601,CA,Barranco Lounge,$$,4,124,https://www.yelp.com/biz/barranco-lounge-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,65,6.093421685,3
+1436,"[{'alias': 'newamerican'}, {'alias': 'cocktailbars'}, {'alias': 'tapasmallplates'}]",34.16464,-118.37261,A_POQGBp5WYOaDTI-lNbkA,11102 W Magnolia Blvd,,,Los Angeles,US,"11102 W Magnolia Blvd
+Los Angeles, CA 91601",91601,CA,ST. ANNE'S,$$,4.5,309,https://www.yelp.com/biz/st-annes-los-angeles-4?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,65,6.989958479,4
+1443,"[{'alias': 'tex-mex'}, {'alias': 'sportsbars'}]",34.16464,-118.37328,Qb1ObjEtuIlPo4aSBosyIg,11122 W Magnolia Blvd,,,North Hollywood,US,"11122 W Magnolia Blvd
+North Hollywood, CA 91601",91601,CA,El Tejano,$$,3.5,805,https://www.yelp.com/biz/el-tejano-north-hollywood?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,65,6.40579588,5
+1444,"[{'alias': 'italian'}, {'alias': 'wine_bars'}, {'alias': 'desserts'}]",34.16505347,-118.3722569,fVPiyz9oQgc1XRvftVUNcg,11049 Magnolia Blvd,Ste 7,,North Hollywood,US,"11049 Magnolia Blvd
+Ste 7
+North Hollywood, CA 91601",91601,CA,Spumante Restaurant,$$,4.5,609,https://www.yelp.com/biz/spumante-restaurant-north-hollywood?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,65,7.284617293,6
+1454,"[{'alias': 'bbq'}, {'alias': 'tradamerican'}, {'alias': 'bars'}]",34.1446897,-118.755279,g372EUp2frU9D-SsmztADA,5050 Cornell Rd,,,Agoura Hills,US,"5050 Cornell Rd
+Agoura Hills, CA 91301",91301,CA,Wood Ranch BBQ & Grill,$$,3.5,746,https://www.yelp.com/biz/wood-ranch-bbq-and-grill-agoura-hills?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,66,6.372738827,1
+1450,"[{'alias': 'musicvenues'}, {'alias': 'theater'}]",34.14428,-118.75455,ZtXbSHSOVQnzYewA2pnz1g,28912 Roadside Dr,,,Agoura Hills,US,"28912 Roadside Dr
+Agoura Hills, CA 91301",91301,CA,The Canyon Agoura Hills,$$$,2.5,498,https://www.yelp.com/biz/the-canyon-agoura-hills-agoura-hills?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,66,5.197229343,2
+1452,"[{'alias': 'cocktailbars'}, {'alias': 'mexican'}]",34.1442468,-118.7542527,5NkNvC-iosvaoGVMdbK-mg,28914 Roadside Dr,Ste 110,,Agoura Hills,US,"28914 Roadside Dr
+Ste 110
+Agoura Hills, CA 91301",91301,CA,Plata Taqueria & Cantina,$$,4,482,https://www.yelp.com/biz/plata-taqueria-and-cantina-agoura-hills?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,66,6.683047038,3
+1461,"[{'alias': 'sportsbars'}, {'alias': 'newamerican'}, {'alias': 'pianobars'}]",34.414585,-118.557731,VOrgPuK1G7freVpVqlIr0A,24201 Valencia Blvd,Ste 3690,Westfield Valencia Town Center,Valencia,US,"24201 Valencia Blvd
+Ste 3690
+Westfield Valencia Town Center
+Valencia, CA 91355",91355,CA,Bunker Hill Bar & Grill,$$,3,357,https://www.yelp.com/biz/bunker-hill-bar-and-grill-valencia?adjust_creative=GER6IuxY_kN512WfOpji5A&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=GER6IuxY_kN512WfOpji5A,67,5.552668216,1
+1455,"[{'alias': 'chinese'}, {'alias': 'sushi'}, {'alias': 'lounges'}]",34.41440259,-118.5574745,ayuXdbjTxAp61VwpJdoHCA,24201 Valencia Blvd,Suite 3452,,Valencia,US,"24201 Valencia Blvd
+Suite 3452
+Valencia, CA 91355",91355,CA,Wokcano,$$,3.5,899,https://www.yelp.com/biz/wokcano-valencia-3?adjust_creative=GER6IuxY_kN512WfOpji5A&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=GER6IuxY_kN512WfOpji5A,67,6.453759692,2
+1458,"[{'alias': 'mexican'}, {'alias': 'bars'}, {'alias': 'breakfast_brunch'}]",34.414398,-118.557082,5X9vne40iWXbth_BYnrtOw,24201 W Valencia Blvd,Ste 3470,,Valencia,US,"24201 W Valencia Blvd
+Ste 3470
+Valencia, CA 91355",91355,CA,solita Tacos & Margaritas,$$,4,864,https://www.yelp.com/biz/solita-tacos-and-margaritas-valencia-2?adjust_creative=GER6IuxY_kN512WfOpji5A&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=GER6IuxY_kN512WfOpji5A,67,6.936513742,3
+1457,"[{'alias': 'musicvenues'}, {'alias': 'theater'}]",34.41398,-118.55664,WW67A_5-PAxAMz_s7y0zdg,24201 Valencia Blvd,Ste 1351,Westfield Valencia Town Center,Santa Clarita,US,"24201 Valencia Blvd
+Ste 1351
+Westfield Valencia Town Center
+Santa Clarita, CA 91355",91355,CA,The Canyon Santa Clarita,$$,3,243,https://www.yelp.com/biz/the-canyon-santa-clarita-santa-clarita?adjust_creative=GER6IuxY_kN512WfOpji5A&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=GER6IuxY_kN512WfOpji5A,67,5.385606274,4
+1466,"[{'alias': 'sushi'}, {'alias': 'teppanyaki'}, {'alias': 'cocktailbars'}]",34.168065,-118.602687,4RR6S_wO12Q_Uaw3gBRugg,21812 Ventura Blvd,,,Woodland Hills,US,"21812 Ventura Blvd
+Woodland Hills, CA 91364",91364,CA,Something's Fishy,$$,3.5,664,https://www.yelp.com/biz/somethings-fishy-woodland-hills?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,68,6.322168079,1
+1464,[{'alias': 'nightlife'}],34.168542,-118.6020903,h1a7BZCp9QOkNIbs0sBGOQ,21797 Ventura Blvd,,,Woodland Hills,US,"21797 Ventura Blvd
+Woodland Hills, CA 91364",91364,CA,Le Cannon,,1,1,https://www.yelp.com/biz/le-cannon-woodland-hills?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,68,1,2
+1465,[{'alias': 'jazzandblues'}],34.16854,-118.60202,iy4oz0I4-6_8RK9mj1xmKA,21791 Ventura Blvd,,,Los Angeles,US,"21791 Ventura Blvd
+Los Angeles, CA 91364",91364,CA,The Write Off Room,$$,4,48,https://www.yelp.com/biz/the-write-off-room-los-angeles?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,68,5.681241237,3
+1463,"[{'alias': 'pizza'}, {'alias': 'whiskeybars'}, {'alias': 'sportsbars'}]",34.16861,-118.602089,#NAME?,21733 Ventura Blvd,,,Woodland Hills,US,"21733 Ventura Blvd
+Woodland Hills, CA 91364",91364,CA,The Copper Mine,$$,4,224,https://www.yelp.com/biz/the-copper-mine-woodland-hills?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,68,6.350248018,4
+1481,"[{'alias': 'mexican'}, {'alias': 'bars'}, {'alias': 'breakfast_brunch'}]",34.15108181,-118.4477614,GiWyc0TcF9gpr1Zb_7hVBw,14433 1/2 Ventura Blvd,,,Sherman Oaks,US,"14433 1/2 Ventura Blvd
+Sherman Oaks, CA 91423",91423,CA,El Torito,$$,4,732,https://www.yelp.com/biz/el-torito-sherman-oaks-3?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,69,6.864511081,1
+1474,"[{'alias': 'pizza'}, {'alias': 'italian'}, {'alias': 'wine_bars'}]",34.15104,-118.45129,BbIDkONhrXwGynZKl_kHbw,14612 Ventura Blvd,,,Sherman Oaks,US,"14612 Ventura Blvd
+Sherman Oaks, CA 91403",91403,CA,MidiCi The Neapolitan Pizza Company,$$,4.5,2814,https://www.yelp.com/biz/midici-the-neapolitan-pizza-company-sherman-oaks?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,69,7.949324093,2
+1476,"[{'alias': 'newamerican'}, {'alias': 'bars'}, {'alias': 'breakfast_brunch'}]",34.15099,-118.45211,IEanQPESKzqJTJ7sumdh0g,14622 Ventura Blvd,Ste 112,,Sherman Oaks,US,"14622 Ventura Blvd
+Ste 112
+Sherman Oaks, CA 91403",91403,CA,On The Thirty,$$,4,1332,https://www.yelp.com/biz/on-the-thirty-sherman-oaks?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,69,7.124504225,3
+1469,"[{'alias': 'pubs'}, {'alias': 'cocktailbars'}, {'alias': 'sandwiches'}]",34.15186,-118.45251,N7ufkkIZmZgBQiTTIHp-Xw,14649 Ventura Blvd,,,Sherman Oaks,US,"14649 Ventura Blvd
+Sherman Oaks, CA 91403",91403,CA,Mr Furley's Bar,$,4,478,https://www.yelp.com/biz/mr-furleys-bar-sherman-oaks-3?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,69,6.679427897,4
+1479,"[{'alias': 'cocktailbars'}, {'alias': 'newamerican'}, {'alias': 'tradamerican'}]",34.15179,-118.45203,cDdgzU3Yx9CZv0r4MGrr3w,14633 Ventura Blvd,,,"Sherman Oaks, Los Angeles",US,"14633 Ventura Blvd
+Sherman Oaks, Los Angeles, CA 91403",91403,CA,The Sherman,$$,4,683,https://www.yelp.com/biz/the-sherman-sherman-oaks-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,69,6.834420704,5
+1494,"[{'alias': 'mexican'}, {'alias': 'bars'}]",34.14691,-118.42276,mdmZGHhykNcRAQjIOHnl0A,13301 Ventura Blvd,,,Sherman Oaks,US,"13301 Ventura Blvd
+Sherman Oaks, CA 91423",91423,CA,Casa Vega,$$,3,1778,https://www.yelp.com/biz/casa-vega-sherman-oaks?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,70,6.249931757,1
+1487,"[{'alias': 'pubs'}, {'alias': 'gastropubs'}, {'alias': 'sportsbars'}]",34.148148,-118.430145,eXgljPZylSRcveqDK_HNuw,13615 Ventura Blvd,,,Los Angeles,US,"13615 Ventura Blvd
+Los Angeles, CA 91423",91423,CA,The Woodman,$$,4,987,https://www.yelp.com/biz/the-woodman-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,70,6.994317153,2
+1488,"[{'alias': 'bbq'}, {'alias': 'pubs'}]",34.14771,-118.428306,DTEA43PAmaL6ff0FZU3fyQ,13539 Ventura Blvd,,,Sherman Oaks,US,"13539 Ventura Blvd
+Sherman Oaks, CA 91423",91423,CA,Boneyard Bistro,$$,4,1275,https://www.yelp.com/biz/boneyard-bistro-sherman-oaks?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,70,7.105510185,3
+1493,"[{'alias': 'newamerican'}, {'alias': 'seafood'}, {'alias': 'cocktailbars'}]",34.1471475,-118.424406,1HfgX6qhtRDg7oIT1e1n5w,13359 Ventura Blvd,,,Los Angeles,US,"13359 Ventura Blvd
+Los Angeles, CA 91423",91423,CA,Wood & Water,$$$,4,254,https://www.yelp.com/biz/wood-and-water-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,70,6.404833717,4
+1486,[{'alias': 'danceclubs'}],34.1494076,-118.4307774,EE7-kaeFiZ9V7ai586fOQQ,4346 Woodman Ave,,,Los Angeles,US,"4346 Woodman Ave
+Los Angeles, CA 91423",91423,CA,Kypseli Greek Dance Center At the Tango Room,$,5,4,https://www.yelp.com/biz/kypseli-greek-dance-center-at-the-tango-room-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,70,5.602059991,5
+1512,"[{'alias': 'steak'}, {'alias': 'sportsbars'}, {'alias': 'tradamerican'}]",34.178196,-118.308754,Y0mKobMMpgYlT4OKpefiwg,235 South Ikea Way,,,Burbank,US,"235 South Ikea Way
+Burbank, CA 91502",91502,CA,Black Angus Steakhouse,$$,3.5,562,https://www.yelp.com/biz/black-angus-steakhouse-burbank?adjust_creative=KbX-3VX0iTtesKGOSeyYSg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=KbX-3VX0iTtesKGOSeyYSg,71,6.249736316,1
+1497,"[{'alias': 'bars'}, {'alias': 'vegetarian'}, {'alias': 'newamerican'}]",34.181227,-118.311761,COSbBd5YDHmrJlwg211avA,100 E Palm Ave,,,Burbank,US,"100 E Palm Ave
+Burbank, CA 91502",91502,CA,Yard House,$$,3.5,539,https://www.yelp.com/biz/yard-house-burbank?adjust_creative=KbX-3VX0iTtesKGOSeyYSg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=KbX-3VX0iTtesKGOSeyYSg,71,6.231588765,2
+1505,"[{'alias': 'comedyclubs'}, {'alias': 'newamerican'}]",34.1818824,-118.3127811,O06Y1xj7H-vfXWNlr9fgbA,102 E Magnolia Blvd,,,Burbank,US,"102 E Magnolia Blvd
+Burbank, CA 91502",91502,CA,Flappers Comedy Club & Restaurant,$$,4,616,https://www.yelp.com/biz/flappers-comedy-club-and-restaurant-burbank?adjust_creative=KbX-3VX0iTtesKGOSeyYSg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=KbX-3VX0iTtesKGOSeyYSg,71,6.789580712,3
+1495,"[{'alias': 'burgers'}, {'alias': 'tradamerican'}, {'alias': 'irish_pubs'}]",34.18065509,-118.3081543,uyL5j_HQfU6u8IHktQ60yw,150 S San Fernando Blvd,,,Burbank,US,"150 S San Fernando Blvd
+Burbank, CA 91502",91502,CA,Story Tavern,$$,3.5,507,https://www.yelp.com/biz/story-tavern-burbank?adjust_creative=KbX-3VX0iTtesKGOSeyYSg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=KbX-3VX0iTtesKGOSeyYSg,71,6.205007959,4
+1511,"[{'alias': 'sushi'}, {'alias': 'chinese'}, {'alias': 'lounges'}]",34.180459,-118.307896,n4LHEdEPv8gPJxz8FImm1A,150 S San Fernando Blvd,#20,,Burbank,US,"150 S San Fernando Blvd
+#20
+Burbank, CA 91502",91502,CA,Wokcano,$$,3,1030,https://www.yelp.com/biz/wokcano-burbank?adjust_creative=KbX-3VX0iTtesKGOSeyYSg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=KbX-3VX0iTtesKGOSeyYSg,71,6.012837225,5
+1496,"[{'alias': 'poolhalls'}, {'alias': 'tradamerican'}, {'alias': 'sportsbars'}]",34.1811822,-118.3095726,KheOA6L70CCpiuQqCog8Dg,131 N San Fernando Blvd,,,Burbank,US,"131 N San Fernando Blvd
+Burbank, CA 91502",91502,CA,Fantasia Billiards,$$,3,344,https://www.yelp.com/biz/fantasia-billiards-burbank-2?adjust_creative=KbX-3VX0iTtesKGOSeyYSg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=KbX-3VX0iTtesKGOSeyYSg,71,5.536558443,6
+1501,"[{'alias': 'chicken_wings'}, {'alias': 'tradamerican'}, {'alias': 'sportsbars'}]",34.1818451,-118.3114947,cbdhsLy3Jt60kduOQn5ULw,127 E Palm Ave,,,Burbank,US,"127 E Palm Ave
+Burbank, CA 91502",91502,CA,Buffalo Wild Wings,$$,2.5,1248,https://www.yelp.com/biz/buffalo-wild-wings-burbank?adjust_creative=KbX-3VX0iTtesKGOSeyYSg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=KbX-3VX0iTtesKGOSeyYSg,71,5.596214585,7
+1519,"[{'alias': 'wine_bars'}, {'alias': 'beer_and_wine'}]",34.1524106,-118.3521234,iVnNvA29bbrQ20olKSevEw,10139 12nd Riverside Dr,,,Toluca Lake,US,"10139 12nd Riverside Dr
+Toluca Lake, CA 91602",91602,CA,Spin the Bottle Wine Studio,$$,4.5,81,https://www.yelp.com/biz/spin-the-bottle-wine-studio-toluca-lake?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,72,6.408485019,1
+1515,"[{'alias': 'irish_pubs'}, {'alias': 'sportsbars'}, {'alias': 'breakfast_brunch'}]",34.15254,-118.35107,h6-EWWyzvTXdIJWWyz8C4Q,10111 Riverside Dr,,,Toluca Lake,US,"10111 Riverside Dr
+Toluca Lake, CA 91602",91602,CA,Mrs Robinson's Irish Pub,,5,4,https://www.yelp.com/biz/mrs-robinsons-irish-pub-toluca-lake?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,72,5.602059991,2
+1514,"[{'alias': 'magicians'}, {'alias': 'comedyclubs'}]",34.15251,-118.35041,1eeb-gdZsmzf4EYjTGO40w,10063 Riverside Dr,Ste 2727,,Toluca Lake,US,"10063 Riverside Dr
+Ste 2727
+Toluca Lake, CA 91610",91610,CA,Joel Ward Productions,,5,12,https://www.yelp.com/biz/joel-ward-productions-toluca-lake?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,72,6.079181246,3
+1518,"[{'alias': 'pizza'}, {'alias': 'newamerican'}, {'alias': 'bars'}]",34.152517,-118.350207,ZDJFCAft0vQVKg1WvQvUig,10057 Riverside Dr,,,Toluca Lake,US,"10057 Riverside Dr
+Toluca Lake, CA 91602",91602,CA,Riverside,$$,4,191,https://www.yelp.com/biz/riverside-toluca-lake-3?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,72,6.281033367,4
+1523,"[{'alias': 'newamerican'}, {'alias': 'lounges'}, {'alias': 'wine_bars'}]",34.141468,-118.388418,S3z6erO2TeljEc-dTPqc9Q,11720 Ventura Blvd,,,Studio City,US,"11720 Ventura Blvd
+Studio City, CA 91604",91604,CA,Firefly,$$$,4,2154,https://www.yelp.com/biz/firefly-studio-city?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,73,7.333245699,1
+1524,"[{'alias': 'bars'}, {'alias': 'mexican'}, {'alias': 'cuban'}]",34.1419106,-118.3898773,VxX9LC0x60pcfySSoSC5wg,11814 Ventura Blvd,,,Studio City,US,"11814 Ventura Blvd
+Studio City, CA 91604",91604,CA,Ceremony Bar,$$,3.5,259,https://www.yelp.com/biz/ceremony-bar-studio-city?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,73,5.913299764,2
+1526,"[{'alias': 'tradamerican'}, {'alias': 'lounges'}]",34.14217,-118.39046,ma3MRxILFJZW9Ffr3CkAcQ,11838 Ventura Blvd,,,Los Angeles,US,"11838 Ventura Blvd
+Los Angeles, CA 91604",91604,CA,Mister O's,,4,211,https://www.yelp.com/biz/mister-os-los-angeles?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,73,6.324282455,3
+1522,[{'alias': 'lounges'}],34.14276,-118.3915039,j6A8zeQD8-ecWG3intVsHw,11916 Ventura Blvd,,,Studio City,US,"11916 Ventura Blvd
+Studio City, CA 91604",91604,CA,Page 71 Lounge,$$,3,321,https://www.yelp.com/biz/page-71-lounge-studio-city?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,73,5.506505032,4
+1532,"[{'alias': 'danceclubs'}, {'alias': 'lounges'}]",34.143816,-118.399013,HugS4rXWq-SnsxJcgdnrGQ,12215 Ventura Blvd,,,Studio City,US,"12215 Ventura Blvd
+Studio City, CA 91604",91604,CA,Rain Bar & Lounge,$$,3,147,https://www.yelp.com/biz/rain-bar-and-lounge-studio-city?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,74,5.167317335,1
+1527,"[{'alias': 'hookah_bars'}, {'alias': 'mediterranean'}, {'alias': 'wine_bars'}]",34.1436645,-118.3995363,2Q971ALLmTmUM0DRt8s-SA,12229 Ventura Blvd,,,Studio City,US,"12229 Ventura Blvd
+Studio City, CA 91604",91604,CA,Olive & Grill,$$,4,336,https://www.yelp.com/biz/olive-and-grill-studio-city?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,74,6.526339277,2
+1528,"[{'alias': 'russian'}, {'alias': 'lounges'}, {'alias': 'modern_european'}]",34.144097,-118.399714,4rwpTdwlH9iFs-SENbYELw,12229 Ventura Blvd,,,Studio City,US,"12229 Ventura Blvd
+Studio City, CA 91604",91604,CA,Romanov Restaurant & Lounge,$$$$,3.5,206,https://www.yelp.com/biz/romanov-restaurant-and-lounge-studio-city?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,74,5.81386722,3
+1531,"[{'alias': 'cocktailbars'}, {'alias': 'beer_and_wine'}, {'alias': 'pizza'}]",34.14312573,-118.4021486,KXtMvh0HeiN8KhMproVLmQ,12345 Ventura Blvd,,,Studio City,US,"12345 Ventura Blvd
+Studio City, CA 91604",91604,CA,The Village,$$,3.5,695,https://www.yelp.com/biz/the-village-studio-city?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,74,6.341984805,4
+1533,"[{'alias': 'breweries'}, {'alias': 'newamerican'}, {'alias': 'pubs'}]",34.1362631,-118.3538828,ykqbrekgMZIfx06FwsZIyg,1000 Universal Studios Blvd,Ste M-41,,Universal City,US,"1000 Universal Studios Blvd
+Ste M-41
+Universal City, CA 91608",91608,CA,Karl Strauss Brewing Company,$$,4,986,https://www.yelp.com/biz/karl-strauss-brewing-company-universal-city?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,75,6.993876915,1
+1536,"[{'alias': 'cocktailbars'}, {'alias': 'mexican'}]",34.136312,-118.353871,TGCUFNPmPB-LCHsGRunfAA,100 Universal City Plz,,,Universal City,US,"100 Universal City Plz
+Universal City, CA 91608",91608,CA,Cocina Mexicana,,2.5,2,https://www.yelp.com/biz/cocina-mexicana-universal-city-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,75,2.801029996,2
+1541,"[{'alias': 'cocktailbars'}, {'alias': 'mexican'}]",34.136316,-118.353872,a5KvDCNBqX5UxuKTQY8ysw,100 Universal City Plz,,,Universal City,US,"100 Universal City Plz
+Universal City, CA 91608",91608,CA,Antojitos Cocina Mexicana,$$,3.5,238,https://www.yelp.com/biz/antojitos-cocina-mexicana-universal-city-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,75,5.876576957,3
+1538,"[{'alias': 'japanese'}, {'alias': 'sushi'}, {'alias': 'beerbar'}]",34.13644136,-118.3529005,ceCiXn-eAFNVYMXep2X3VQ,1000 Universal City Dr,Ste 112,,Universal City,US,"1000 Universal City Dr
+Ste 112
+Universal City, CA 91608",91608,CA,Wasabi At Citywalk,$$,4,891,https://www.yelp.com/biz/wasabi-at-citywalk-universal-city-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,75,6.949877704,4
+1539,"[{'alias': 'newamerican'}, {'alias': 'burgers'}, {'alias': 'musicvenues'}]",34.136545,-118.351829,hvK9wUYYgyCdoYd2i21-bw,1000 Universal Studios Blvd,Ste 99,,Universal City,US,"1000 Universal Studios Blvd
+Ste 99
+Universal City, CA 91608",91608,CA,Hard Rock Cafe,$$,3.5,804,https://www.yelp.com/biz/hard-rock-cafe-universal-city-5?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,75,6.405256049,5
+1554,"[{'alias': 'asianfusion'}, {'alias': 'tikibars'}, {'alias': 'newamerican'}]",34.0963618,-117.7177451,WmRl-b6M5BU4e7DJgIFt8A,238 Yale Ave,,,Claremont,US,"238 Yale Ave
+Claremont, CA 91711",91711,CA,Broken Coconut,$$,4,196,https://www.yelp.com/biz/broken-coconut-claremont?adjust_creative=GER6IuxY_kN512WfOpji5A&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=GER6IuxY_kN512WfOpji5A,76,6.292256071,1
+1547,"[{'alias': 'sandwiches'}, {'alias': 'beerbar'}, {'alias': 'salad'}]",34.0944751,-117.721033,cV_0V75Nck57OekpYGICZQ,520 W 1st St,,,Claremont,US,"520 W 1st St
+Claremont, CA 91711",91711,CA,Stacks,,4.5,77,https://www.yelp.com/biz/stacks-claremont?adjust_creative=GER6IuxY_kN512WfOpji5A&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=GER6IuxY_kN512WfOpji5A,76,6.386490725,2
+1546,"[{'alias': 'wine_bars'}, {'alias': 'tradamerican'}, {'alias': 'tapasmallplates'}]",34.09444705,-117.7213761,XFvBdUd311tm6dg9WRJFDA,540 W 1st St,,,Claremont,US,"540 W 1st St
+Claremont, CA 91711",91711,CA,Packing House Wines,$$,4,182,https://www.yelp.com/biz/packing-house-wines-claremont-2?adjust_creative=GER6IuxY_kN512WfOpji5A&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=GER6IuxY_kN512WfOpji5A,76,6.260071388,3
+1550,"[{'alias': 'newamerican'}, {'alias': 'burgers'}, {'alias': 'cocktailbars'}]",34.09457349,-117.7203207,LyxuqM3_4t21MPRPSaWN1A,502 W 1st St,,,Claremont,US,"502 W 1st St
+Claremont, CA 91711",91711,CA,The Whisper House,$$,4,1304,https://www.yelp.com/biz/the-whisper-house-claremont?adjust_creative=GER6IuxY_kN512WfOpji5A&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=GER6IuxY_kN512WfOpji5A,76,7.115277591,4
+1543,"[{'alias': 'lounges'}, {'alias': 'wine_bars'}]",34.0949465,-117.7202873,Tn9nWdGyjrgU2fI9g_iHiQ,425 W 1st St,,,Claremont,US,"425 W 1st St
+Claremont, CA 91711",91711,CA,Hotel Casa 425 Lounge and Bar,$$,3.5,157,https://www.yelp.com/biz/hotel-casa-425-lounge-and-bar-claremont?adjust_creative=GER6IuxY_kN512WfOpji5A&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=GER6IuxY_kN512WfOpji5A,76,5.695899652,5
+1562,"[{'alias': 'newamerican'}, {'alias': 'sportsbars'}, {'alias': 'mexican'}]",34.08778,-117.89045,gZBQWWXyK_lvb2uLuvArZw,211 N Citrus Ave,,,Covina,US,"211 N Citrus Ave
+Covina, CA 91723",91723,CA,OLA Restobar,$$,3.5,292,https://www.yelp.com/biz/ola-restobar-covina-4?adjust_creative=GER6IuxY_kN512WfOpji5A&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=GER6IuxY_kN512WfOpji5A,77,5.965382851,1
+1563,"[{'alias': 'danceclubs'}, {'alias': 'latin'}, {'alias': 'bars'}]",34.08761,-117.89044,OINJvVndt2211-sga9U_cg,201 N Citrus Ave,,,Covina,US,"201 N Citrus Ave
+Covina, CA 91723",91723,CA,3 Vinos,$$,2.5,414,https://www.yelp.com/biz/3-vinos-covina?adjust_creative=GER6IuxY_kN512WfOpji5A&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=GER6IuxY_kN512WfOpji5A,77,5.117000341,2
+1564,"[{'alias': 'newamerican'}, {'alias': 'bars'}, {'alias': 'breakfast_brunch'}]",34.0875549,-117.8886161,6Uzv43SznTx8VVAuFAFTFQ,147 E College St,,,Covina,US,"147 E College St
+Covina, CA 91723",91723,CA,City Grill,$$,4,334,https://www.yelp.com/biz/city-grill-covina-3?adjust_creative=GER6IuxY_kN512WfOpji5A&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=GER6IuxY_kN512WfOpji5A,77,6.523746467,3
+1555,"[{'alias': 'pizza'}, {'alias': 'salad'}, {'alias': 'sportsbars'}]",34.0866,-117.89045,LWCv-8IxiZsoRfG-aLnh7g,113 N Citrus Ave,,,Covina,US,"113 N Citrus Ave
+Covina, CA 91723",91723,CA,The Artist Pizzeria,$$,4,605,https://www.yelp.com/biz/the-artist-pizzeria-covina?adjust_creative=GER6IuxY_kN512WfOpji5A&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=GER6IuxY_kN512WfOpji5A,77,6.781755375,4
+1561,"[{'alias': 'theater'}, {'alias': 'musicvenues'}, {'alias': 'venues'}]",34.0863682,-117.8901181,xuYTzgMDHnhhBwOddOE0nQ,104 N Citrus Ave,,,Covina,US,"104 N Citrus Ave
+Covina, CA 91723",91723,CA,Covina Center for the Performing Arts,,4,27,https://www.yelp.com/biz/covina-center-for-the-performing-arts-covina?adjust_creative=GER6IuxY_kN512WfOpji5A&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=GER6IuxY_kN512WfOpji5A,77,5.431363764,5
+1568,"[{'alias': 'beerbar'}, {'alias': 'brewpubs'}]",34.10200633,-117.7697746,9gXNEEPV8MgB3waGc_UerA,2079 Bonita Ave,Ste 101,,La Verne,US,"2079 Bonita Ave
+Ste 101
+La Verne, CA 91750",91750,CA,Alosta Brewing,,4.5,10,https://www.yelp.com/biz/alosta-brewing-la-verne?adjust_creative=GER6IuxY_kN512WfOpji5A&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=GER6IuxY_kN512WfOpji5A,78,5.5,1
+1569,"[{'alias': 'bars'}, {'alias': 'newamerican'}]",34.101749,-117.770001,qvVaL0768yxoIf2N4dE7XA,2079 Bonita Ave,,,La Verne,US,"2079 Bonita Ave
+La Verne, CA 91750",91750,CA,Chase's La Verne,$$,4,497,https://www.yelp.com/biz/chases-la-verne-la-verne?adjust_creative=GER6IuxY_kN512WfOpji5A&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=GER6IuxY_kN512WfOpji5A,78,6.696356389,2
+1570,"[{'alias': 'wine_bars'}, {'alias': 'gastropubs'}]",34.10123302,-117.7694221,pHJYvG53-RR0hegdez_QqA,2124 Bonita Ave,,,La Verne,US,"2124 Bonita Ave
+La Verne, CA 91750",91750,CA,Fourth Street Mill,$$,3.5,278,https://www.yelp.com/biz/fourth-street-mill-la-verne?adjust_creative=GER6IuxY_kN512WfOpji5A&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=GER6IuxY_kN512WfOpji5A,78,5.944044796,3
+1565,"[{'alias': 'tapas'}, {'alias': 'cocktailbars'}]",34.1001266,-117.7696112,Ws1P2xzXSTaX23Mm1faz8A,2136 3rd St,,,La Verne,US,"2136 3rd St
+La Verne, CA 91750",91750,CA,Taberna,,4.5,14,https://www.yelp.com/biz/taberna-la-verne?adjust_creative=GER6IuxY_kN512WfOpji5A&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=GER6IuxY_kN512WfOpji5A,78,5.646128036,4
+1594,"[{'alias': 'musicvenues'}, {'alias': 'bars'}]",34.05753,-117.75152,0llLaTA2y9ewhiPqGwFzGg,200 W 2nd St,,,Pomona,US,"200 W 2nd St
+Pomona, CA 91766",91766,CA,The Glass House,$$,3.5,352,https://www.yelp.com/biz/the-glass-house-pomona?adjust_creative=GER6IuxY_kN512WfOpji5A&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=GER6IuxY_kN512WfOpji5A,79,6.046542663,1
+1590,[{'alias': 'cocktailbars'}],34.05664,-117.75089,LUy4GPKeleFZJGgP9lJhUw,300 S Thomas St,,,Pomona,US,"300 S Thomas St
+Pomona, CA 91766",91766,CA,The Basement,,1,9,https://www.yelp.com/biz/the-basement-pomona?adjust_creative=GER6IuxY_kN512WfOpji5A&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=GER6IuxY_kN512WfOpji5A,79,1.954242509,2
+1589,"[{'alias': 'seafood'}, {'alias': 'mexican'}, {'alias': 'cocktailbars'}]",34.05674,-117.75104,3Ir3QXvKyD2ZO5zEzJkadA,184 W 3rd St,,,Pomona,US,"184 W 3rd St
+Pomona, CA 91766",91766,CA,Mariscos La Reina,,3.5,19,https://www.yelp.com/biz/mariscos-la-reina-pomona?adjust_creative=GER6IuxY_kN512WfOpji5A&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=GER6IuxY_kN512WfOpji5A,79,4.778753601,3
+1573,"[{'alias': 'hookah_bars'}, {'alias': 'vapeshops'}]",34.05623,-117.7510209,i0T4o17U3qFb64_bOtjb0A,370 S Thomas St,,,Pomona,US,"370 S Thomas St
+Pomona, CA 91766",91766,CA,The Shisha Room,$$,5,25,https://www.yelp.com/biz/the-shisha-room-pomona-7?adjust_creative=GER6IuxY_kN512WfOpji5A&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=GER6IuxY_kN512WfOpji5A,79,6.397940009,4
+1580,"[{'alias': 'arcades'}, {'alias': 'bars'}]",34.0561282,-117.7510177,IbHiCj5y6_bWH-A4M_m-sw,396 S Thomas St,,,Pomona,US,"396 S Thomas St
+Pomona, CA 91766",91766,CA,The Paradox Arcade + Bar,,4.5,52,https://www.yelp.com/biz/the-paradox-arcade-bar-pomona?adjust_creative=GER6IuxY_kN512WfOpji5A&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=GER6IuxY_kN512WfOpji5A,79,6.216003344,5
+1586,[{'alias': 'danceclubs'}],34.0564717,-117.7510905,74l-G4y-MXAN5DtUNPpiKg,342 S Thomas St,,,Pomona,US,"342 S Thomas St
+Pomona, CA 91766",91766,CA,Club Rock It,$$,3,27,https://www.yelp.com/biz/club-rock-it-pomona?adjust_creative=GER6IuxY_kN512WfOpji5A&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=GER6IuxY_kN512WfOpji5A,79,4.431363764,6
+1592,"[{'alias': 'newamerican'}, {'alias': 'cocktailbars'}]",34.0567436,-117.7506866,Q3-3gycJEVG5CtxBmag4cg,150 W 3rd St,,,Pomona,US,"150 W 3rd St
+Pomona, CA 91766",91766,CA,Green Room,$$,3.5,51,https://www.yelp.com/biz/green-room-pomona?adjust_creative=GER6IuxY_kN512WfOpji5A&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=GER6IuxY_kN512WfOpji5A,79,5.207570176,7
+1576,"[{'alias': 'danceclubs'}, {'alias': 'musicvenues'}]",34.0564304,-117.7510273,xFfvspDT08uDW6567aGbzQ,342 S Thomas St,,,Pomona,US,"342 S Thomas St
+Pomona, CA 91766",91766,CA,Carnaval,$$,2,109,https://www.yelp.com/biz/carnaval-pomona?adjust_creative=GER6IuxY_kN512WfOpji5A&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=GER6IuxY_kN512WfOpji5A,79,4.037426498,8
+1600,[{'alias': 'nightlife'}],34.06988144,-117.921669,NKupsCOjTNHvH82JAgIfKA,210 S Glendora Ave,,,West Covina,US,"210 S Glendora Ave
+West Covina, CA 91790",91790,CA,Don Fredo's At the Royal Lounge,$$,4,1,https://www.yelp.com/biz/don-fredos-at-the-royal-lounge-west-covina?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,80,4,1
+1597,"[{'alias': 'lounges'}, {'alias': 'karaoke'}, {'alias': 'cocktailbars'}]",34.06988,-117.92167,I5IWiSaM9lJ204CPbTCoIQ,210 S Glendora Ave,,,West Covina,US,"210 S Glendora Ave
+West Covina, CA 91790",91790,CA,Royal Lounge,$,3.5,93,https://www.yelp.com/biz/royal-lounge-west-covina?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,80,5.468482949,2
+1599,"[{'alias': 'divebars'}, {'alias': 'sportsbars'}]",34.06841,-117.92341,Nb8XMB5RZa8LOCT_09otSg,328 S Glendora Ave,,,West Covina,US,"328 S Glendora Ave
+West Covina, CA 91790",91790,CA,Tina's Tavern,$,3,80,https://www.yelp.com/biz/tinas-tavern-west-covina?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,80,4.903089987,3
+1595,"[{'alias': 'divebars'}, {'alias': 'whiskeybars'}, {'alias': 'cocktailbars'}]",34.0708519,-117.9210632,Rx8ye3_HDMVDLSRlbKz8oQ,146 S Glendora Ave,,,West Covina,US,"146 S Glendora Ave
+West Covina, CA 91790",91790,CA,The Cove Cocktail Bar,$,4,136,https://www.yelp.com/biz/the-cove-cocktail-bar-west-covina-4?adjust_creative=IoWvfBtqKcPCgcP8MnJ2aQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=IoWvfBtqKcPCgcP8MnJ2aQ,80,6.133538908,4
+1613,"[{'alias': 'burgers'}, {'alias': 'mexican'}, {'alias': 'sportsbars'}]",34.09306,-118.13206,yesK8QeGLP_VMjeAp3eINg,433 W Main St,,,Alhambra,US,"433 W Main St
+Alhambra, CA 91801",91801,CA,Sidebar Grill,$,4,196,https://www.yelp.com/biz/sidebar-grill-alhambra-2?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,81,6.292256071,1
+1601,"[{'alias': 'dancestudio'}, {'alias': 'danceclubs'}, {'alias': 'theater'}]",34.09396,-118.12769,CtoXzHhoky5M0Rp1nJFlxg,17 S 1st St,,,Alhambra,US,"17 S 1st St
+Alhambra, CA 91801",91801,CA,The Granada LA Dance Studio,$$,4,25,https://www.yelp.com/biz/the-granada-la-dance-studio-alhambra?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,81,5.397940009,2
+1603,"[{'alias': 'eventplanning'}, {'alias': 'danceclubs'}, {'alias': 'theater'}]",34.0946403,-118.1276032,YDkwki_W518VL9i0XNCWMw,38 W Main St,,,Alhambra,US,"38 W Main St
+Alhambra, CA 91801",91801,CA,QueenVee Entertainment,$$,4.5,18,https://www.yelp.com/biz/queenvee-entertainment-alhambra?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,81,5.755272505,3
+1614,"[{'alias': 'sportsbars'}, {'alias': 'tradamerican'}, {'alias': 'lounges'}]",34.0947329,-118.1274226,ex8j59k5Gk5viw18PiLtkA,28 W Main St,,,Alhambra,US,"28 W Main St
+Alhambra, CA 91801",91801,CA,28 West,$$,3.5,301,https://www.yelp.com/biz/28-west-alhambra-4?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,81,5.978566496,4
+1602,"[{'alias': 'food'}, {'alias': 'jazzandblues'}, {'alias': 'festivals'}]",34.096199,-118.126724,yXI4hEucAc5WYwnGY7URyg,1 E Main St,,,Alhambra,US,"1 E Main St
+Alhambra, CA 91801",91801,CA,Renaissance Plaza,$,3,1,https://www.yelp.com/biz/renaissance-plaza-alhambra?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,81,3,5
+1606,"[{'alias': 'tradamerican'}, {'alias': 'sportsbars'}, {'alias': 'burgers'}]",34.095538,-118.126568,0YW5kl8WE1WHhXPxXXjjgg,21 E Main St,,,Alhambra,US,"21 E Main St
+Alhambra, CA 91801",91801,CA,Applebee's Grill + Bar,$$,2.5,381,https://www.yelp.com/biz/applebees-grill-bar-alhambra?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,81,5.080924976,6
+1610,[{'alias': 'karaoke'}],34.09377068,-118.1302779,x0y6Fx7Z-S0_GN_2ris9Sw,7 N 3rd St,,,Alhambra,US,"7 N 3rd St
+Alhambra, CA 91801",91801,CA,K100 KTV,$$,2.5,70,https://www.yelp.com/biz/k100-ktv-alhambra?adjust_creative=8-OWAMyq9TD-D2E2r9j3cg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=8-OWAMyq9TD-D2E2r9j3cg,81,4.34509804,7
+1619,"[{'alias': 'theater'}, {'alias': 'musicvenues'}]",34.69735218,-118.1438034,BQ6rqf_2pCY5ok0_VuYadA,750 W Lancaster Blvd,,,Lancaster,US,"750 W Lancaster Blvd
+Lancaster, CA 93534",93534,CA,Lancaster Performing Arts Center,$$,4,30,https://www.yelp.com/biz/lancaster-performing-arts-center-lancaster?adjust_creative=GER6IuxY_kN512WfOpji5A&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=GER6IuxY_kN512WfOpji5A,82,5.477121255,1
+1617,"[{'alias': 'bowling'}, {'alias': 'poolhalls'}, {'alias': 'sportsbars'}]",34.6976299,-118.1424,YPBaKI1ZbuTnxLkUFVWiGA,706 W Lancaster Blvd,Ste 110,,Lancaster,US,"706 W Lancaster Blvd
+Ste 110
+Lancaster, CA 93534",93534,CA,Underground Bowling Lounge,,3,18,https://www.yelp.com/biz/underground-bowling-lounge-lancaster?adjust_creative=GER6IuxY_kN512WfOpji5A&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=GER6IuxY_kN512WfOpji5A,82,4.255272505,2
+1618,"[{'alias': 'bars'}, {'alias': 'musicvenues'}]",34.6976299,-118.1424,ftKODUvBmM44wcf9uLNBog,706 West Lancaster Blvd,,,Lancaster,US,"706 West Lancaster Blvd
+Lancaster, CA 93534",93534,CA,Buckle & Boots,,3.5,24,https://www.yelp.com/biz/buckle-and-boots-lancaster?adjust_creative=GER6IuxY_kN512WfOpji5A&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=GER6IuxY_kN512WfOpji5A,82,4.880211242,3
+1620,"[{'alias': 'hookah_bars'}, {'alias': 'lounges'}]",34.69728862,-118.1428263,GkKwXGz4yx3MtSBZTlm7hw,706 W Lancaster Blvd,Ste 107,,Lancaster,US,"706 W Lancaster Blvd
+Ste 107
+Lancaster, CA 93534",93534,CA,The Kave Hookah Lounge,$$,4.5,42,https://www.yelp.com/biz/the-kave-hookah-lounge-lancaster-3?adjust_creative=GER6IuxY_kN512WfOpji5A&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=GER6IuxY_kN512WfOpji5A,82,6.12324929,4
